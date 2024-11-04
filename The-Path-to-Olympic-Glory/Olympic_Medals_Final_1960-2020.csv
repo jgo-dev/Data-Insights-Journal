@@ -1,0 +1,1003 @@
+Year,Country_Code,Country_Name,Host_city,Host_country,Gold,Silver,Bronze,MedalTotal,Population,LifeExpectancy,Region,IncomeGroup,GDP
+1960,RUS,Soviet Union,Rome,Italy,43,29,31,103,119897000.0,67.46521951,Europe & Central Asia,High income,
+1960,USA,United States,Rome,Italy,34,21,16,71,180671000.0,69.77073171,North America,High income,
+1960,ITA,Italy,Rome,Italy,13,10,13,36,50199700.0,69.12390244,Europe & Central Asia,High income,
+1960,DEU,United Team of Germany,Rome,Italy,12,19,11,42,72814900.0,69.06407317,Europe & Central Asia,High income,
+1960,AUS,Australia,Rome,Italy,8,8,6,22,10276477.0,70.81707317,East Asia & Pacific,High income,
+1960,TUR,Turkey,Rome,Italy,7,2,0,9,27510980.0,50.74,Europe & Central Asia,Upper middle income,
+1960,HUN,Hungary,Rome,Italy,6,8,7,21,9983967.0,68.00317073,Europe & Central Asia,High income,
+1960,JPN,Japan,Rome,Italy,4,7,7,18,93216000.0,67.69560976,East Asia & Pacific,High income,
+1960,POL,Poland,Rome,Italy,4,6,11,21,29637450.0,67.6804878,Europe & Central Asia,High income,
+1960,CZE,Czechoslovakia,Rome,Italy,3,2,3,8,9602006.0,70.34878049,Europe & Central Asia,High income,
+1960,ROU,Romania,Rome,Italy,3,1,6,10,18406905.0,65.86053659,Europe & Central Asia,High income,
+1960,GBR,Great Britain,Rome,Italy,2,6,12,20,52400000.0,71.12682927,Europe & Central Asia,High income,
+1960,DNK,Denmark,Rome,Italy,2,3,1,6,4579603.0,72.17658537,Europe & Central Asia,High income,
+1960,NZL,New Zealand,Rome,Italy,2,0,1,3,2371800.0,71.23658537,East Asia & Pacific,High income,
+1960,BGR,Bulgaria,Rome,Italy,1,3,3,7,7867374.0,69.24756098,Europe & Central Asia,High income,
+1960,SWE,Sweden,Rome,Italy,1,2,3,6,7484656.0,73.00560976,Europe & Central Asia,High income,
+1960,FIN,Finland,Rome,Italy,1,1,3,5,4429634.0,68.8197561,Europe & Central Asia,High income,
+1960,AUT,Austria,Rome,Italy,1,1,0,2,7047539.0,68.58560976,Europe & Central Asia,High income,
+1960,YUG,Yugoslavia,Rome,Italy,1,1,0,2,,,,,
+1960,PAK,Pakistan,Rome,Italy,1,0,1,2,45954226.0,44.932,South Asia,Lower middle income,
+1960,ETH,Ethiopia,Rome,Italy,1,0,0,1,21739710.0,40.33,Sub-Saharan Africa,Low income,
+1960,GRC,Greece,Rome,Italy,1,0,0,1,8331725.0,69.3,Europe & Central Asia,High income,
+1960,NOR,Norway,Rome,Italy,1,0,0,1,3581239.0,73.5497561,Europe & Central Asia,High income,
+1960,CHE,Switzerland,Rome,Italy,0,3,3,6,5327827.0,71.31341463,Europe & Central Asia,High income,
+1960,FRA,France,Rome,Italy,0,2,3,5,46649927.0,69.86829268,Europe & Central Asia,High income,
+1960,BEL,Belgium,Rome,Italy,0,2,2,4,9153489.0,69.70195122,Europe & Central Asia,High income,
+1960,IRN,Iran,Rome,Italy,0,1,3,4,21388806.0,43.957,Middle East & North Africa,Upper middle income,
+1960,NLD,Netherlands,Rome,Italy,0,1,2,3,11486631.0,73.39268293,Europe & Central Asia,High income,
+1960,ZAF,South Africa,Rome,Italy,0,1,2,3,16520441.0,52.669,Sub-Saharan Africa,Upper middle income,
+1960,ARG,Argentina,Rome,Italy,0,1,1,2,20349744.0,63.978,Latin America & Caribbean,Upper middle income,
+1960,EGY,Egypt,Rome,Italy,0,1,1,2,27034499.0,45.373,Middle East & North Africa,Lower middle income,
+1960,CAN,Canada,Rome,Italy,0,1,0,1,17909356.0,71.13317073,North America,High income,
+1960,GHA,Ghana,Rome,Italy,0,1,0,1,6911510.0,47.096,Sub-Saharan Africa,Lower middle income,
+1960,IND,India,Rome,Italy,0,1,0,1,445954579.0,45.218,South Asia,Lower middle income,
+1960,MAR,Morocco,Rome,Italy,0,1,0,1,11769774.0,42.017,Middle East & North Africa,Lower middle income,
+1960,PRT,Portugal,Rome,Italy,0,1,0,1,8857716.0,64.00746341,Europe & Central Asia,High income,
+1960,TPE,Republic of China,Rome,Italy,0,1,0,1,,,,,
+1960,SGP,Singapore,Rome,Italy,0,1,0,1,1646400.0,64.69468293,East Asia & Pacific,High income,
+1960,BRA,Brazil,Rome,Italy,0,0,2,2,73092515.0,52.66,Latin America & Caribbean,Upper middle income,
+1960,BWI,British West Indies,Rome,Italy,0,0,2,2,,,,,
+1960,IRQ,Iraq,Rome,Italy,0,0,1,1,7084678.0,52.618,Middle East & North Africa,Upper middle income,
+1960,MEX,Mexico,Rome,Italy,0,0,1,1,36268055.0,55.017,Latin America & Caribbean,Upper middle income,
+1960,ESP,Spain,Rome,Italy,0,0,1,1,30455000.0,69.10926829,Europe & Central Asia,High income,
+1960,VEN,Venezuela,Rome,Italy,0,0,1,1,8156937.0,58.647,Latin America & Caribbean,,
+1964,USA,United States,Tokyo,Japan,36,26,28,90,191889000.0,70.16585366,North America,High income,
+1964,RUS,Soviet Union,Tokyo,Japan,30,31,35,96,125345000.0,68.36717073,Europe & Central Asia,High income,
+1964,JPN,Japan,Tokyo,Japan,16,5,8,29,96903000.0,70.20658537,East Asia & Pacific,High income,
+1964,DEU,United Team of Germany,Tokyo,Japan,10,22,18,50,75318337.0,70.43556098,Europe & Central Asia,High income,
+1964,ITA,Italy,Tokyo,Japan,10,10,7,27,51675350.0,70.31170732,Europe & Central Asia,High income,
+1964,HUN,Hungary,Tokyo,Japan,10,7,5,22,10119835.0,69.38097561,Europe & Central Asia,High income,
+1964,POL,Poland,Tokyo,Japan,7,6,10,23,31139450.0,68.62926829,Europe & Central Asia,High income,
+1964,AUS,Australia,Tokyo,Japan,6,2,10,18,11167000.0,70.88097561,East Asia & Pacific,High income,
+1964,CZE,Czechoslovakia,Tokyo,Japan,5,6,3,14,9727804.0,70.4595122,Europe & Central Asia,High income,
+1964,GBR,Great Britain,Tokyo,Japan,4,12,2,18,54000000.0,71.62439024,Europe & Central Asia,High income,
+1964,BGR,Bulgaria,Tokyo,Japan,3,5,2,10,8144340.0,71.12121951,Europe & Central Asia,High income,
+1964,FIN,Finland,Tokyo,Japan,3,0,2,5,4548543.0,69.22097561,Europe & Central Asia,High income,
+1964,NZL,New Zealand,Tokyo,Japan,3,0,2,5,2585400.0,71.32926829,East Asia & Pacific,High income,
+1964,ROU,Romania,Tokyo,Japan,2,4,6,12,18919126.0,67.84512195,Europe & Central Asia,High income,
+1964,NLD,Netherlands,Tokyo,Japan,2,4,4,10,12127120.0,73.70414634,Europe & Central Asia,High income,
+1964,TUR,Turkey,Tokyo,Japan,2,3,1,6,30612821.0,53.714,Europe & Central Asia,Upper middle income,
+1964,SWE,Sweden,Tokyo,Japan,2,2,4,8,7661354.0,73.73317073,Europe & Central Asia,High income,
+1964,DNK,Denmark,Tokyo,Japan,2,1,3,6,4722072.0,72.48512195,Europe & Central Asia,High income,
+1964,YUG,Yugoslavia,Tokyo,Japan,2,1,2,5,,,,,
+1964,BEL,Belgium,Tokyo,Japan,2,0,1,3,9378113.0,70.75512195,Europe & Central Asia,High income,
+1964,FRA,France,Tokyo,Japan,1,8,6,15,48733997.0,70.66341463,Europe & Central Asia,High income,
+1964,CAN,Canada,Tokyo,Japan,1,2,1,4,19325000.0,71.77634146,North America,High income,
+1964,CHE,Switzerland,Tokyo,Japan,1,2,1,4,5789228.0,72.07780488,Europe & Central Asia,High income,
+1964,BHS,Bahamas,Tokyo,Japan,1,0,0,1,138785.0,64.05,Latin America & Caribbean,High income,
+1964,ETH,Ethiopia,Tokyo,Japan,1,0,0,1,24073696.0,42.275,Sub-Saharan Africa,Low income,
+1964,IND,India,Tokyo,Japan,1,0,0,1,489059309.0,46.184,South Asia,Lower middle income,
+1964,KOR,South Korea,Tokyo,Japan,0,2,1,3,27984155.0,57.17478049,East Asia & Pacific,High income,
+1964,TTO,Trinidad and Tobago,Tokyo,Japan,0,1,2,3,913399.0,63.843,Latin America & Caribbean,High income,
+1964,TUN,Tunisia,Tokyo,Japan,0,1,1,2,4389417.0,47.365,Middle East & North Africa,Lower middle income,
+1964,ARG,Argentina,Tokyo,Japan,0,1,0,1,21708487.0,64.363,Latin America & Caribbean,Upper middle income,
+1964,CUB,Cuba,Tokyo,Japan,0,1,0,1,7902286.0,65.905,Latin America & Caribbean,Upper middle income,
+1964,PAK,Pakistan,Tokyo,Japan,0,1,0,1,50552592.0,48.595,South Asia,Lower middle income,
+1964,PHL,Philippines,Tokyo,Japan,0,1,0,1,31916622.0,60.541,East Asia & Pacific,Lower middle income,
+1964,IRN,Iran,Tokyo,Japan,0,0,2,2,23948624.0,46.196,Middle East & North Africa,Upper middle income,
+1964,BRA,Brazil,Tokyo,Japan,0,0,1,1,82262794.0,54.648,Latin America & Caribbean,Upper middle income,
+1964,GHA,Ghana,Tokyo,Japan,0,0,1,1,7640196.0,47.719,Sub-Saharan Africa,Lower middle income,
+1964,IRL,Ireland,Tokyo,Japan,0,0,1,1,2866550.0,70.48992683,Europe & Central Asia,High income,
+1964,KEN,Kenya,Tokyo,Japan,0,0,1,1,9047387.0,51.328,Sub-Saharan Africa,Lower middle income,
+1964,MEX,Mexico,Tokyo,Japan,0,0,1,1,41333878.0,57.947,Latin America & Caribbean,Upper middle income,
+1964,NGA,Nigeria,Tokyo,Japan,0,0,1,1,48856332.0,38.415,Sub-Saharan Africa,Lower middle income,
+1964,URY,Uruguay,Tokyo,Japan,0,0,1,1,2652376.0,68.179,Latin America & Caribbean,High income,
+1968,USA,United States,Mexico City,Mexico,45,28,34,107,200706000.0,69.95121951,North America,High income,
+1968,RUS,Soviet Union,Mexico City,Mexico,29,32,30,91,128928000.0,67.48936585,Europe & Central Asia,High income,
+1968,JPN,Japan,Mexico City,Mexico,11,7,7,25,101011000.0,71.61097561,East Asia & Pacific,High income,
+1968,HUN,Hungary,Mexico City,Mexico,10,10,12,32,10255815.0,69.2302439,Europe & Central Asia,High income,
+1968,DEU,East Germany,Mexico City,Mexico,9,9,7,25,77294314.0,70.37846341,Europe & Central Asia,High income,
+1968,FRA,France,Mexico City,Mexico,7,3,5,15,50817020.0,71.3097561,Europe & Central Asia,High income,
+1968,CZE,Czechoslovakia,Mexico City,Mexico,7,2,4,13,9876346.0,69.84073171,Europe & Central Asia,High income,
+1968,DEU,West Germany,Mexico City,Mexico,5,11,10,26,77294314.0,70.37846341,Europe & Central Asia,High income,
+1968,AUS,Australia,Mexico City,Mexico,5,7,5,17,12009000.0,70.91902439,East Asia & Pacific,High income,
+1968,GBR,Great Britain,Mexico City,Mexico,5,5,3,13,55211700.0,71.72439024,Europe & Central Asia,High income,
+1968,POL,Poland,Mexico City,Mexico,5,2,11,18,32294655.0,70.2195122,Europe & Central Asia,High income,
+1968,ROU,Romania,Mexico City,Mexico,4,6,5,15,19799831.0,67.56036585,Europe & Central Asia,High income,
+1968,ITA,Italy,Mexico City,Mexico,3,4,9,16,53235750.0,70.78,Europe & Central Asia,High income,
+1968,KEN,Kenya,Mexico City,Mexico,3,4,2,9,10613877.0,52.781,Sub-Saharan Africa,Lower middle income,
+1968,MEX,Mexico,Mexico City,Mexico,3,3,3,9,47170337.0,59.835,Latin America & Caribbean,Upper middle income,
+1968,YUG,Yugoslavia,Mexico City,Mexico,3,3,2,8,,,,,
+1968,NLD,Netherlands,Mexico City,Mexico,3,3,1,7,12729721.0,73.61268293,Europe & Central Asia,High income,
+1968,BGR,Bulgaria,Mexico City,Mexico,2,4,3,9,8369603.0,71.22512195,Europe & Central Asia,High income,
+1968,IRN,Iran,Mexico City,Mexico,2,1,2,5,26875302.0,48.136,Middle East & North Africa,Upper middle income,
+1968,SWE,Sweden,Mexico City,Mexico,2,1,1,4,7912273.0,73.97292683,Europe & Central Asia,High income,
+1968,TUR,Turkey,Mexico City,Mexico,2,0,0,2,33884075.0,55.835,Europe & Central Asia,Upper middle income,
+1968,DNK,Denmark,Mexico City,Mexico,1,4,3,8,4864883.0,73.12146341,Europe & Central Asia,High income,
+1968,CAN,Canada,Mexico City,Mexico,1,3,1,5,20744000.0,72.35341463,North America,High income,
+1968,FIN,Finland,Mexico City,Mexico,1,2,1,4,4626469.0,69.61634146,Europe & Central Asia,High income,
+1968,ETH,Ethiopia,Mexico City,Mexico,1,1,0,2,26778653.0,42.844,Sub-Saharan Africa,Low income,
+1968,NOR,Norway,Mexico City,Mexico,1,1,0,2,3816486.0,73.94195122,Europe & Central Asia,High income,
+1968,NZL,New Zealand,Mexico City,Mexico,1,0,2,3,2748100.0,71.12439024,East Asia & Pacific,High income,
+1968,TUN,Tunisia,Mexico City,Mexico,1,0,1,2,4785003.0,51.573,Middle East & North Africa,Lower middle income,
+1968,PAK,Pakistan,Mexico City,Mexico,1,0,0,1,56124743.0,52.898,South Asia,Lower middle income,
+1968,VEN,Venezuela,Mexico City,Mexico,1,0,0,1,10672654.0,62.928,Latin America & Caribbean,,
+1968,CUB,Cuba,Mexico City,Mexico,0,4,0,4,8550286.0,67.511,Latin America & Caribbean,Upper middle income,
+1968,AUT,Austria,Mexico City,Mexico,0,2,2,4,7415403.0,70.05756098,Europe & Central Asia,High income,
+1968,CHE,Switzerland,Mexico City,Mexico,0,1,4,5,6067714.0,72.5902439,Europe & Central Asia,High income,
+1968,MNG,Mongolia,Mexico City,Mexico,0,1,3,4,1230406.0,51.457,East Asia & Pacific,Upper middle income,
+1968,BRA,Brazil,Mexico City,Mexico,0,1,2,3,91659246.0,56.31,Latin America & Caribbean,Upper middle income,
+1968,BEL,Belgium,Mexico City,Mexico,0,1,1,2,9618756.0,70.69317073,Europe & Central Asia,High income,
+1968,KOR,South Korea,Mexico City,Mexico,0,1,1,2,30838302.0,61.559,East Asia & Pacific,High income,
+1968,UGA,Uganda,Mexico City,Mexico,0,1,1,2,9696370.0,49.213,Sub-Saharan Africa,Low income,
+1968,CMR,Cameroon,Mexico City,Mexico,0,1,0,1,6127193.0,45.978,Sub-Saharan Africa,Lower middle income,
+1968,JAM,Jamaica,Mexico City,Mexico,0,1,0,1,1812209.0,66.265,Latin America & Caribbean,Upper middle income,
+1968,ARG,Argentina,Mexico City,Mexico,0,0,2,2,23112971.0,64.89,Latin America & Caribbean,Upper middle income,
+1968,GRC,Greece,Mexico City,Mexico,0,0,1,1,8740765.0,71.43019512,Europe & Central Asia,High income,
+1968,IND,India,Mexico City,Mexico,0,0,1,1,533431909.0,47.471,South Asia,Lower middle income,
+1968,TPE,Republic of China,Mexico City,Mexico,0,0,1,1,,,,,
+1972,RUS,Soviet Union,Munich,West Germany,50,27,22,99,131909000.0,68.30853659,Europe & Central Asia,High income,
+1972,USA,United States,Munich,West Germany,33,31,30,94,209896000.0,71.15609756,North America,High income,
+1972,DEU,East Germany,Munich,West Germany,20,23,23,66,78688452.0,70.90670732,Europe & Central Asia,High income,
+1972,DEU,West Germany,Munich,West Germany,13,11,16,40,78688452.0,70.90670732,Europe & Central Asia,High income,
+1972,JPN,Japan,Munich,West Germany,13,8,8,29,107188000.0,73.15365854,East Asia & Pacific,High income,
+1972,AUS,Australia,Munich,West Germany,8,7,2,17,13177000.0,71.45756098,East Asia & Pacific,High income,
+1972,POL,Poland,Munich,West Germany,7,5,9,21,33055650.0,70.66585366,Europe & Central Asia,High income,
+1972,HUN,Hungary,Munich,West Germany,6,13,16,35,10398489.0,69.66463415,Europe & Central Asia,High income,
+1972,BGR,Bulgaria,Munich,West Germany,6,10,5,21,8576200.0,70.8995122,Europe & Central Asia,High income,
+1972,ITA,Italy,Munich,West Germany,5,3,10,18,54381345.0,72.07536585,Europe & Central Asia,High income,
+1972,SWE,Sweden,Munich,West Germany,4,6,6,16,8122300.0,74.71804878,Europe & Central Asia,High income,
+1972,GBR,Great Britain,Munich,West Germany,4,5,9,18,56086065.0,72.12439024,Europe & Central Asia,High income,
+1972,ROU,Romania,Munich,West Germany,3,6,7,16,20657957.0,68.4702439,Europe & Central Asia,High income,
+1972,CUB,Cuba,Munich,West Germany,3,1,4,8,9169289.0,69.462,Latin America & Caribbean,Upper middle income,
+1972,FIN,Finland,Munich,West Germany,3,1,4,8,4639657.0,70.70731707,Europe & Central Asia,High income,
+1972,NLD,Netherlands,Munich,West Germany,3,1,1,5,13328593.0,73.72707317,Europe & Central Asia,High income,
+1972,FRA,France,Munich,West Germany,2,4,7,13,52637888.0,72.10731707,Europe & Central Asia,High income,
+1972,CZE,Czechoslovakia,Munich,West Germany,2,4,2,8,9867632.0,70.17658537,Europe & Central Asia,High income,
+1972,KEN,Kenya,Munich,West Germany,2,3,4,9,12322903.0,55.012,Sub-Saharan Africa,Lower middle income,
+1972,YUG,Yugoslavia,Munich,West Germany,2,1,2,5,,,,,
+1972,NOR,Norway,Munich,West Germany,2,1,1,4,3933004.0,74.34463415,Europe & Central Asia,High income,
+1972,PRK,North Korea,Munich,West Germany,1,1,3,5,15768363.0,61.807,East Asia & Pacific,Low income,
+1972,NZL,New Zealand,Munich,West Germany,1,1,1,3,2903900.0,71.82926829,East Asia & Pacific,High income,
+1972,UGA,Uganda,Munich,West Germany,1,1,0,2,10885563.0,46.967,Sub-Saharan Africa,Low income,
+1972,DNK,Denmark,Munich,West Germany,1,0,0,1,4991596.0,73.43902439,Europe & Central Asia,High income,
+1972,CHE,Switzerland,Munich,West Germany,0,3,0,3,6260956.0,73.64439024,Europe & Central Asia,High income,
+1972,CAN,Canada,Munich,West Germany,0,2,3,5,22218463.0,72.93390244,North America,High income,
+1972,IRN,Iran,Munich,West Germany,0,2,1,3,30111574.0,51.659,Middle East & North Africa,Upper middle income,
+1972,BEL,Belgium,Munich,West Germany,0,2,0,2,9711115.0,71.40512195,Europe & Central Asia,High income,
+1972,GRC,Greece,Munich,West Germany,0,2,0,2,8888628.0,72.78268293,Europe & Central Asia,High income,
+1972,AUT,Austria,Munich,West Germany,0,1,2,3,7544201.0,70.46341463,Europe & Central Asia,High income,
+1972,COL,Colombia,Munich,West Germany,0,1,2,3,21898055.0,62.569,Latin America & Caribbean,Upper middle income,
+1972,ARG,Argentina,Munich,West Germany,0,1,0,1,24612794.0,65.923,Latin America & Caribbean,Upper middle income,
+1972,LBN,Lebanon,Munich,West Germany,0,1,0,1,2505965.0,66.907,Middle East & North Africa,Lower middle income,
+1972,MEX,Mexico,Munich,West Germany,0,1,0,1,53543436.0,61.614,Latin America & Caribbean,Upper middle income,
+1972,MNG,Mongolia,Munich,West Germany,0,1,0,1,1363835.0,54.016,East Asia & Pacific,Upper middle income,
+1972,PAK,Pakistan,Munich,West Germany,0,1,0,1,62509565.0,55.239,South Asia,Lower middle income,
+1972,KOR,South Korea,Munich,West Germany,0,1,0,1,33505406.0,63.0097561,East Asia & Pacific,High income,
+1972,TUN,Tunisia,Munich,West Germany,0,1,0,1,5320148.0,56.107,Middle East & North Africa,Lower middle income,
+1972,TUR,Turkey,Munich,West Germany,0,1,0,1,37188035.0,58.069,Europe & Central Asia,Upper middle income,
+1972,BRA,Brazil,Munich,West Germany,0,0,2,2,101194394.0,58.032,Latin America & Caribbean,Upper middle income,
+1972,ETH,Ethiopia,Munich,West Germany,0,0,2,2,29891328.0,41.55,Sub-Saharan Africa,Low income,
+1972,GHA,Ghana,Munich,West Germany,0,0,1,1,9365952.0,48.026,Sub-Saharan Africa,Lower middle income,
+1972,IND,India,Munich,West Germany,0,0,1,1,582837973.0,49.025,South Asia,Lower middle income,
+1972,JAM,Jamaica,Munich,West Germany,0,0,1,1,1915299.0,67.102,Latin America & Caribbean,Upper middle income,
+1972,NER,Niger,Munich,West Germany,0,0,1,1,4926318.0,35.632,Sub-Saharan Africa,Low income,
+1972,NGA,Nigeria,Munich,West Germany,0,0,1,1,58173834.0,41.273,Sub-Saharan Africa,Lower middle income,
+1972,ESP,Spain,Munich,West Germany,0,0,1,1,34604469.0,72.81804878,Europe & Central Asia,High income,
+1976,RUS,Soviet Union,Montreal,Canada,49,41,35,125,135147000.0,67.48756098,Europe & Central Asia,High income,
+1976,DEU,East Germany,Montreal,Canada,40,25,25,90,78336950.0,71.71221951,Europe & Central Asia,High income,
+1976,USA,United States,Montreal,Canada,34,35,25,94,218035000.0,72.85609756,North America,High income,
+1976,DEU,West Germany,Montreal,Canada,10,12,17,39,78336950.0,71.71221951,Europe & Central Asia,High income,
+1976,JPN,Japan,Montreal,Canada,9,6,10,25,112775000.0,74.68658537,East Asia & Pacific,High income,
+1976,POL,Poland,Montreal,Canada,7,6,13,26,34356300.0,70.65609756,Europe & Central Asia,High income,
+1976,BGR,Bulgaria,Montreal,Canada,6,9,7,22,8758599.0,71.39487805,Europe & Central Asia,High income,
+1976,CUB,Cuba,Montreal,Canada,6,4,3,13,9600862.0,71.524,Latin America & Caribbean,Upper middle income,
+1976,ROU,Romania,Montreal,Canada,4,9,14,27,21551634.0,69.69878049,Europe & Central Asia,High income,
+1976,HUN,Hungary,Montreal,Canada,4,5,13,22,10598677.0,69.57317073,Europe & Central Asia,High income,
+1976,FIN,Finland,Montreal,Canada,4,2,0,6,4725664.0,71.81292683,Europe & Central Asia,High income,
+1976,SWE,Sweden,Montreal,Canada,4,1,0,5,8222286.0,74.96926829,Europe & Central Asia,High income,
+1976,GBR,Great Britain,Montreal,Canada,3,5,5,13,56211968.0,72.77560976,Europe & Central Asia,High income,
+1976,ITA,Italy,Montreal,Canada,2,7,4,13,55718260.0,72.99195122,Europe & Central Asia,High income,
+1976,FRA,France,Montreal,Canada,2,3,4,9,53966558.0,73.10243902,Europe & Central Asia,High income,
+1976,YUG,Yugoslavia,Montreal,Canada,2,3,3,8,,,,,
+1976,CZE,Czechoslovakia,Montreal,Canada,2,2,4,8,10125939.0,70.53268293,Europe & Central Asia,High income,
+1976,NZL,New Zealand,Montreal,Canada,2,1,1,4,3110500.0,72.42195122,East Asia & Pacific,High income,
+1976,KOR,South Korea,Montreal,Canada,1,1,4,6,35848523.0,64.50243902,East Asia & Pacific,High income,
+1976,CHE,Switzerland,Montreal,Canada,1,1,2,4,6302504.0,74.78536585,Europe & Central Asia,High income,
+1976,JAM,Jamaica,Montreal,Canada,1,1,0,2,2029486.0,68.425,Latin America & Caribbean,Upper middle income,
+1976,PRK,North Korea,Montreal,Canada,1,1,0,2,16987170.0,64.143,East Asia & Pacific,Low income,
+1976,NOR,Norway,Montreal,Canada,1,1,0,2,4026152.0,75.0395122,Europe & Central Asia,High income,
+1976,DNK,Denmark,Montreal,Canada,1,0,2,3,5072596.0,73.7397561,Europe & Central Asia,High income,
+1976,MEX,Mexico,Montreal,Canada,1,0,1,2,60452543.0,63.123,Latin America & Caribbean,Upper middle income,
+1976,TTO,Trinidad and Tobago,Montreal,Canada,1,0,0,1,1067696.0,66.273,Latin America & Caribbean,High income,
+1976,CAN,Canada,Montreal,Canada,0,5,6,11,23449808.0,73.85609756,North America,High income,
+1976,BEL,Belgium,Montreal,Canada,0,3,3,6,9818227.0,72.1197561,Europe & Central Asia,High income,
+1976,NLD,Netherlands,Montreal,Canada,0,2,3,5,13774037.0,74.64707317,Europe & Central Asia,High income,
+1976,PRT,Portugal,Montreal,Canada,0,2,0,2,9355810.0,68.86097561,Europe & Central Asia,High income,
+1976,ESP,Spain,Montreal,Canada,0,2,0,2,36137812.0,73.64268293,Europe & Central Asia,High income,
+1976,AUS,Australia,Montreal,Canada,0,1,4,5,14033000.0,73.01463415,East Asia & Pacific,High income,
+1976,IRN,Iran,Montreal,Canada,0,1,1,2,33841060.0,55.7,Middle East & North Africa,Upper middle income,
+1976,MNG,Mongolia,Montreal,Canada,0,1,0,1,1529084.0,55.432,East Asia & Pacific,Upper middle income,
+1976,VEN,Venezuela,Montreal,Canada,0,1,0,1,13566112.0,67.554,Latin America & Caribbean,,
+1976,BRA,Brazil,Montreal,Canada,0,0,2,2,111286504.0,59.792,Latin America & Caribbean,Upper middle income,
+1976,AUT,Austria,Montreal,Canada,0,0,1,1,7565525.0,71.56585366,Europe & Central Asia,High income,
+1976,BMU,Bermuda,Montreal,Canada,0,0,1,1,53200.0,71.862,North America,High income,
+1976,PAK,Pakistan,Montreal,Canada,0,0,1,1,70230923.0,56.113,South Asia,Lower middle income,
+1976,PRI,Puerto Rico,Montreal,Canada,0,0,1,1,3043854.0,72.262,Latin America & Caribbean,High income,
+1976,THA,Thailand,Montreal,Canada,0,0,1,1,41882128.0,61.978,East Asia & Pacific,Upper middle income,
+1980,RUS,Soviet Union,Moscow,Soviet Union,80,69,46,195,139010000.0,67.03390244,Europe & Central Asia,High income,
+1980,DEU,East Germany,Moscow,Soviet Union,47,37,42,126,78288576.0,72.80031707,Europe & Central Asia,High income,
+1980,BGR,Bulgaria,Moscow,Soviet Union,8,16,17,41,8861535.0,71.15756098,Europe & Central Asia,High income,
+1980,CUB,Cuba,Moscow,Soviet Union,8,7,5,20,9809107.0,72.752,Latin America & Caribbean,Upper middle income,
+1980,ITA,Italy,Moscow,Soviet Union,8,3,4,15,56433883.0,73.94317073,Europe & Central Asia,High income,
+1980,HUN,Hungary,Moscow,Soviet Union,7,10,15,32,10711122.0,69.06170732,Europe & Central Asia,High income,
+1980,ROU,Romania,Moscow,Soviet Union,6,6,13,25,22207282.0,69.09097561,Europe & Central Asia,High income,
+1980,FRA,France,Moscow,Soviet Union,6,5,3,14,55052582.0,74.05121951,Europe & Central Asia,High income,
+1980,GBR,Great Britain,Moscow,Soviet Union,5,7,9,21,56314216.0,73.67560976,Europe & Central Asia,High income,
+1980,POL,Poland,Moscow,Soviet Union,3,14,15,32,35574150.0,70.09756098,Europe & Central Asia,High income,
+1980,SWE,Sweden,Moscow,Soviet Union,3,3,6,12,8310531.0,75.74097561,Europe & Central Asia,High income,
+1980,FIN,Finland,Moscow,Soviet Union,3,1,4,8,4779535.0,73.44,Europe & Central Asia,High income,
+1980,CZE,Czechoslovakia,Moscow,Soviet Union,2,3,9,14,10304193.0,70.27804878,Europe & Central Asia,High income,
+1980,YUG,Yugoslavia,Moscow,Soviet Union,2,3,4,9,,,,,
+1980,AUS,Australia,Moscow,Soviet Union,2,2,5,9,14692000.0,74.33365854,East Asia & Pacific,High income,
+1980,DNK,Denmark,Moscow,Soviet Union,2,1,2,5,5123027.0,74.10170732,Europe & Central Asia,High income,
+1980,BRA,Brazil,Moscow,Soviet Union,2,0,2,4,122288383.0,61.781,Latin America & Caribbean,Upper middle income,
+1980,ETH,Ethiopia,Moscow,Soviet Union,2,0,2,4,34945469.0,43.217,Sub-Saharan Africa,Low income,
+1980,CHE,Switzerland,Moscow,Soviet Union,2,0,0,2,6319408.0,75.45926829,Europe & Central Asia,High income,
+1980,ESP,Spain,Moscow,Soviet Union,1,3,2,6,37491165.0,75.34926829,Europe & Central Asia,High income,
+1980,AUT,Austria,Moscow,Soviet Union,1,2,1,4,7549433.0,72.46341463,Europe & Central Asia,High income,
+1980,GRC,Greece,Moscow,Soviet Union,1,0,2,3,9642505.0,74.54626829,Europe & Central Asia,High income,
+1980,BEL,Belgium,Moscow,Soviet Union,1,0,0,1,9859242.0,73.20707317,Europe & Central Asia,High income,
+1980,IND,India,Moscow,Soviet Union,1,0,0,1,696828385.0,53.611,South Asia,Lower middle income,
+1980,ZWE,Zimbabwe,Moscow,Soviet Union,1,0,0,1,7049926.0,58.674,Sub-Saharan Africa,Lower middle income,
+1980,PRK,North Korea,Moscow,Soviet Union,0,3,2,5,17973650.0,66.158,East Asia & Pacific,Low income,
+1980,MNG,Mongolia,Moscow,Soviet Union,0,2,2,4,1697780.0,55.64,East Asia & Pacific,Upper middle income,
+1980,TZA,Tanzania,Moscow,Soviet Union,0,2,0,2,19297659.0,51.201,Sub-Saharan Africa,Lower middle income,
+1980,MEX,Mexico,Moscow,Soviet Union,0,1,3,4,67705186.0,64.703,Latin America & Caribbean,Upper middle income,
+1980,NLD,Netherlands,Moscow,Soviet Union,0,1,2,3,14149800.0,75.74317073,Europe & Central Asia,High income,
+1980,IRL,Ireland,Moscow,Soviet Union,0,1,1,2,3412800.0,72.59541463,Europe & Central Asia,High income,
+1980,UGA,Uganda,Moscow,Soviet Union,0,1,0,1,13284026.0,42.949,Sub-Saharan Africa,Low income,
+1980,VEN,Venezuela,Moscow,Soviet Union,0,1,0,1,15210443.0,68.762,Latin America & Caribbean,,
+1980,JAM,Jamaica,Moscow,Soviet Union,0,0,3,3,2135546.0,69.435,Latin America & Caribbean,Upper middle income,
+1980,GUY,Guyana,Moscow,Soviet Union,0,0,1,1,778176.0,61.229,Latin America & Caribbean,High income,
+1980,LBN,Lebanon,Moscow,Soviet Union,0,0,1,1,2963702.0,59.665,Middle East & North Africa,Lower middle income,
+1984,USA,United States,Los Angeles,United States,83,61,30,174,235825000.0,74.56341463,North America,High income,
+1984,ROU,Romania,Los Angeles,United States,20,16,17,53,22640547.0,69.65878049,Europe & Central Asia,High income,
+1984,DEU,West Germany,Los Angeles,United States,17,19,23,59,77858685.0,74.07229268,Europe & Central Asia,High income,
+1984,CHN,China,Los Angeles,United States,15,8,9,32,1036825000.0,66.3,East Asia & Pacific,Upper middle income,
+1984,ITA,Italy,Los Angeles,United States,14,6,12,32,56576718.0,75.3895122,Europe & Central Asia,High income,
+1984,CAN,Canada,Los Angeles,United States,10,18,16,44,25607053.0,76.33195122,North America,High income,
+1984,JPN,Japan,Los Angeles,United States,10,8,14,32,120083000.0,77.29121951,East Asia & Pacific,High income,
+1984,NZL,New Zealand,Los Angeles,United States,8,1,2,11,3227100.0,74.37073171,East Asia & Pacific,High income,
+1984,YUG,Yugoslavia,Los Angeles,United States,7,4,7,18,,,,,
+1984,KOR,South Korea,Los Angeles,United States,6,6,7,19,40405956.0,68.19512195,East Asia & Pacific,High income,
+1984,GBR,Great Britain,Los Angeles,United States,5,11,21,37,56422072.0,74.77804878,Europe & Central Asia,High income,
+1984,FRA,France,Los Angeles,United States,5,7,16,28,56275701.0,75.0,Europe & Central Asia,High income,
+1984,NLD,Netherlands,Los Angeles,United States,5,2,6,13,14424211.0,76.23317073,Europe & Central Asia,High income,
+1984,AUS,Australia,Los Angeles,United States,4,8,12,24,15579391.0,75.38780488,East Asia & Pacific,High income,
+1984,FIN,Finland,Los Angeles,United States,4,2,6,12,4881803.0,74.51902439,Europe & Central Asia,High income,
+1984,SWE,Sweden,Los Angeles,United States,2,11,6,19,8336605.0,76.81585366,Europe & Central Asia,High income,
+1984,MEX,Mexico,Los Angeles,United States,2,3,1,6,73489654.0,67.29,Latin America & Caribbean,Upper middle income,
+1984,MAR,Morocco,Los Angeles,United States,2,0,0,2,21817271.0,58.49,Middle East & North Africa,Lower middle income,
+1984,BRA,Brazil,Los Angeles,United States,1,5,2,8,133888775.0,63.773,Latin America & Caribbean,Upper middle income,
+1984,ESP,Spain,Los Angeles,United States,1,2,2,5,38330364.0,76.29536585,Europe & Central Asia,High income,
+1984,BEL,Belgium,Los Angeles,United States,1,1,2,4,9855372.0,74.40487805,Europe & Central Asia,High income,
+1984,AUT,Austria,Los Angeles,United States,1,1,1,3,7561434.0,73.61219512,Europe & Central Asia,High income,
+1984,KEN,Kenya,Los Angeles,United States,1,0,2,3,18753176.0,60.804,Sub-Saharan Africa,Lower middle income,
+1984,PRT,Portugal,Los Angeles,United States,1,0,2,3,9996232.0,72.51463415,Europe & Central Asia,High income,
+1984,PAK,Pakistan,Los Angeles,United States,1,0,0,1,94003867.0,59.332,South Asia,Lower middle income,
+1984,CHE,Switzerland,Los Angeles,United States,0,4,4,8,6441865.0,76.60853659,Europe & Central Asia,High income,
+1984,DNK,Denmark,Los Angeles,United States,0,3,3,6,5111619.0,74.56219512,Europe & Central Asia,High income,
+1984,JAM,Jamaica,Los Angeles,United States,0,1,2,3,2264095.0,70.272,Latin America & Caribbean,Upper middle income,
+1984,NOR,Norway,Los Angeles,United States,0,1,2,3,4140099.0,76.22439024,Europe & Central Asia,High income,
+1984,GRC,Greece,Los Angeles,United States,0,1,1,2,9895801.0,75.77439024,Europe & Central Asia,High income,
+1984,NGA,Nigeria,Los Angeles,United States,0,1,1,2,81337553.0,46.55,Sub-Saharan Africa,Lower middle income,
+1984,PRI,Puerto Rico,Los Angeles,United States,0,1,1,2,3344190.0,73.531,Latin America & Caribbean,High income,
+1984,COL,Colombia,Los Angeles,United States,0,1,0,1,28689032.0,67.979,Latin America & Caribbean,Upper middle income,
+1984,EGY,Egypt,Los Angeles,United States,0,1,0,1,48676443.0,59.73,Middle East & North Africa,Lower middle income,
+1984,IRL,Ireland,Los Angeles,United States,0,1,0,1,3532423.0,73.66373171,Europe & Central Asia,High income,
+1984,CIV,Ivory Coast,Los Angeles,United States,0,1,0,1,9621405.0,53.037,Sub-Saharan Africa,Lower middle income,
+1984,PER,Peru,Los Angeles,United States,0,1,0,1,19285646.0,60.467,Latin America & Caribbean,Upper middle income,
+1984,SYR,Syria,Los Angeles,United States,0,1,0,1,10183138.0,68.924,Middle East & North Africa,Low income,
+1984,THA,Thailand,Los Angeles,United States,0,1,0,1,49636724.0,66.733,East Asia & Pacific,Upper middle income,
+1984,TUR,Turkey,Los Angeles,United States,0,0,3,3,48106764.0,64.706,Europe & Central Asia,Upper middle income,
+1984,VEN,Venezuela,Los Angeles,United States,0,0,3,3,16953234.0,70.441,Latin America & Caribbean,,
+1984,DZA,Algeria,Los Angeles,United States,0,0,2,2,21393530.0,61.658,Middle East & North Africa,Upper middle income,
+1984,CMR,Cameroon,Los Angeles,United States,0,0,1,1,9508570.0,53.22,Sub-Saharan Africa,Lower middle income,
+1984,TPE,Chinese Taipei,Los Angeles,United States,0,0,1,1,,,,,
+1984,DOM,Dominican Republic,Los Angeles,United States,0,0,1,1,6282104.0,63.602,Latin America & Caribbean,Upper middle income,
+1984,ISL,Iceland,Los Angeles,United States,0,0,1,1,239511.0,77.57658537,Europe & Central Asia,High income,
+1984,ZMB,Zambia,Los Angeles,United States,0,0,1,1,6488072.0,52.755,Sub-Saharan Africa,Lower middle income,
+1988,RUS,Soviet Union,Seoul,South Korea,55,31,46,132,146857000.0,69.46439024,Europe & Central Asia,High income,
+1988,DEU,East Germany,Seoul,South Korea,37,35,30,102,78144619.0,74.99873171,Europe & Central Asia,High income,
+1988,USA,United States,Seoul,South Korea,36,31,27,94,244499000.0,74.76585366,North America,High income,
+1988,KOR,South Korea,Seoul,South Korea,12,10,11,33,42031247.0,70.54878049,East Asia & Pacific,High income,
+1988,DEU,West Germany,Seoul,South Korea,11,14,15,40,78144619.0,74.99873171,Europe & Central Asia,High income,
+1988,HUN,Hungary,Seoul,South Korea,11,6,6,23,10596487.0,70.02341463,Europe & Central Asia,High income,
+1988,BGR,Bulgaria,Seoul,South Korea,10,12,13,35,8981446.0,71.60439024,Europe & Central Asia,High income,
+1988,ROU,Romania,Seoul,South Korea,7,11,6,24,23057662.0,69.38804878,Europe & Central Asia,High income,
+1988,FRA,France,Seoul,South Korea,6,4,6,16,57472651.0,76.1,Europe & Central Asia,High income,
+1988,ITA,Italy,Seoul,South Korea,6,4,4,14,56629288.0,76.37073171,Europe & Central Asia,High income,
+1988,CHN,China,Seoul,South Korea,5,11,12,28,1101630000.0,67.581,East Asia & Pacific,Upper middle income,
+1988,GBR,Great Britain,Seoul,South Korea,5,10,9,24,56928327.0,75.3804878,Europe & Central Asia,High income,
+1988,KEN,Kenya,Seoul,South Korea,5,2,2,9,21626122.0,59.539,Sub-Saharan Africa,Lower middle income,
+1988,JPN,Japan,Seoul,South Korea,4,3,7,14,122578000.0,78.3497561,East Asia & Pacific,High income,
+1988,AUS,Australia,Seoul,South Korea,3,6,5,14,16532164.0,76.43268293,East Asia & Pacific,High income,
+1988,YUG,Yugoslavia,Seoul,South Korea,3,4,5,12,,,,,
+1988,CZE,Czechoslovakia,Seoul,South Korea,3,3,2,8,10355276.0,71.64146341,Europe & Central Asia,High income,
+1988,NZL,New Zealand,Seoul,South Korea,3,2,8,13,3283400.0,74.42439024,East Asia & Pacific,High income,
+1988,CAN,Canada,Seoul,South Korea,3,2,5,10,26791747.0,76.85878049,North America,High income,
+1988,POL,Poland,Seoul,South Korea,2,5,9,16,37824487.0,71.33170732,Europe & Central Asia,High income,
+1988,NOR,Norway,Seoul,South Korea,2,3,0,5,4209488.0,76.2204878,Europe & Central Asia,High income,
+1988,NLD,Netherlands,Seoul,South Korea,2,2,5,9,14760094.0,76.8902439,Europe & Central Asia,High income,
+1988,DNK,Denmark,Seoul,South Korea,2,1,1,4,5129516.0,74.77170732,Europe & Central Asia,High income,
+1988,BRA,Brazil,Seoul,South Korea,1,2,3,6,145253973.0,65.454,Latin America & Caribbean,Upper middle income,
+1988,FIN,Finland,Seoul,South Korea,1,1,2,4,4946481.0,74.57707317,Europe & Central Asia,High income,
+1988,ESP,Spain,Seoul,South Korea,1,1,2,4,38766939.0,76.74707317,Europe & Central Asia,High income,
+1988,TUR,Turkey,Seoul,South Korea,1,1,0,2,52275890.0,66.794,Europe & Central Asia,Upper middle income,
+1988,MAR,Morocco,Seoul,South Korea,1,0,2,3,23720590.0,61.32,Middle East & North Africa,Lower middle income,
+1988,AUT,Austria,Seoul,South Korea,1,0,0,1,7585317.0,75.21707317,Europe & Central Asia,High income,
+1988,PRT,Portugal,Seoul,South Korea,1,0,0,1,10019610.0,73.71463415,Europe & Central Asia,High income,
+1988,SUR,Suriname,Seoul,South Korea,1,0,0,1,402139.0,63.437,Latin America & Caribbean,Upper middle income,
+1988,SWE,Sweden,Seoul,South Korea,0,4,7,11,8436489.0,76.97926829,Europe & Central Asia,High income,
+1988,CHE,Switzerland,Seoul,South Korea,0,2,2,4,6593386.0,77.22658537,Europe & Central Asia,High income,
+1988,JAM,Jamaica,Seoul,South Korea,0,2,0,2,2354805.0,71.541,Latin America & Caribbean,Upper middle income,
+1988,ARG,Argentina,Seoul,South Korea,0,1,1,2,31690792.0,71.052,Latin America & Caribbean,Upper middle income,
+1988,CHL,Chile,Seoul,South Korea,0,1,0,1,12918389.0,72.456,Latin America & Caribbean,High income,
+1988,CRI,Costa Rica,Seoul,South Korea,0,1,0,1,3001461.0,76.106,Latin America & Caribbean,Upper middle income,
+1988,IDN,Indonesia,Seoul,South Korea,0,1,0,1,175694647.0,62.211,East Asia & Pacific,Upper middle income,
+1988,IRN,Iran,Seoul,South Korea,0,1,0,1,52111868.0,63.446,Middle East & North Africa,Upper middle income,
+1988,AHO,Netherlands Antilles,Seoul,South Korea,0,1,0,1,,,,,
+1988,PER,Peru,Seoul,South Korea,0,1,0,1,21143799.0,63.601,Latin America & Caribbean,Upper middle income,
+1988,SEN,Senegal,Seoul,South Korea,0,1,0,1,7113636.0,55.774,Sub-Saharan Africa,Lower middle income,
+1988,VIR,Virgin Islands,Seoul,South Korea,0,1,0,1,100952.0,70.76326829,Latin America & Caribbean,High income,
+1988,BEL,Belgium,Seoul,South Korea,0,0,2,2,9901664.0,75.56585366,Europe & Central Asia,High income,
+1988,MEX,Mexico,Seoul,South Korea,0,0,2,2,78892015.0,69.253,Latin America & Caribbean,Upper middle income,
+1988,COL,Colombia,Seoul,South Korea,0,0,1,1,31256727.0,68.391,Latin America & Caribbean,Upper middle income,
+1988,DJI,Djibouti,Seoul,South Korea,0,0,1,1,482337.0,55.161,Middle East & North Africa,Lower middle income,
+1988,GRC,Greece,Seoul,South Korea,0,0,1,1,10036983.0,76.9807561,Europe & Central Asia,High income,
+1988,MNG,Mongolia,Seoul,South Korea,0,0,1,1,2073771.0,57.87,East Asia & Pacific,Upper middle income,
+1988,PAK,Pakistan,Seoul,South Korea,0,0,1,1,107967838.0,59.356,South Asia,Lower middle income,
+1988,PHL,Philippines,Seoul,South Korea,0,0,1,1,58755923.0,64.898,East Asia & Pacific,Lower middle income,
+1988,THA,Thailand,Seoul,South Korea,0,0,1,1,53410965.0,69.689,East Asia & Pacific,Upper middle income,
+1992,EUN,Unified Team,Barcelona,Spain,45,38,29,112,,,,,
+1992,USA,United States,Barcelona,Spain,37,34,37,108,256514000.0,75.61707317,North America,High income,11459984554361.5
+1992,DEU,Germany,Barcelona,Spain,33,21,28,82,80624598.0,75.8195122,Europe & Central Asia,High income,3622707986058.32
+1992,CHN,China,Barcelona,Spain,16,22,16,54,1164970000.0,68.734,East Asia & Pacific,Upper middle income,2331401191963.71
+1992,CUB,Cuba,Barcelona,Spain,14,6,11,31,10783748.0,74.162,Latin America & Caribbean,Upper middle income,
+1992,ESP,Spain,Barcelona,Spain,13,7,2,22,39157685.0,77.41,Europe & Central Asia,High income,1261273273073.88
+1992,KOR,South Korea,Barcelona,Spain,12,5,12,29,43747962.0,72.49756098,East Asia & Pacific,High income,700186922750.594
+1992,HUN,Hungary,Barcelona,Spain,11,12,7,30,10369341.0,69.11707317,Europe & Central Asia,High income,190037017179.196
+1992,FRA,France,Barcelona,Spain,8,5,16,29,58849943.0,77.1,Europe & Central Asia,High income,2415834697267.06
+1992,AUS,Australia,Barcelona,Spain,7,9,11,27,17478635.0,77.37804878,East Asia & Pacific,High income,610418039409.583
+1992,CAN,Canada,Barcelona,Spain,7,4,7,18,28371264.0,77.83804878,North America,High income,1090395378851.92
+1992,ITA,Italy,Barcelona,Spain,6,5,8,19,56797087.0,77.4195122,Europe & Central Asia,High income,2491043076983.75
+1992,GBR,Great Britain,Barcelona,Spain,5,3,12,20,57580402.0,76.43414634,Europe & Central Asia,High income,2020877928109.51
+1992,ROU,Romania,Barcelona,Spain,4,6,8,18,22794284.0,69.78439024,Europe & Central Asia,High income,302520276902.518
+1992,CZE,Czechoslovakia,Barcelona,Spain,4,2,1,7,10319123.0,72.27170732,Europe & Central Asia,High income,254679102545.067
+1992,PRK,North Korea,Barcelona,Spain,4,0,5,9,21439991.0,70.824,East Asia & Pacific,Low income,
+1992,JPN,Japan,Barcelona,Spain,3,8,11,22,124425000.0,79.0802439,East Asia & Pacific,High income,4574407663005.5
+1992,BGR,Bulgaria,Barcelona,Spain,3,7,6,16,8540164.0,71.49439024,Europe & Central Asia,High income,111634025002.134
+1992,POL,Poland,Barcelona,Spain,3,6,10,19,38363667.0,71.0902439,Europe & Central Asia,High income,473634890897.338
+1992,NLD,Netherlands,Barcelona,Spain,2,6,7,15,15184166.0,77.21707317,Europe & Central Asia,High income,670594015135.777
+1992,KEN,Kenya,Barcelona,Spain,2,4,2,8,24655723.0,57.259,Sub-Saharan Africa,Lower middle income,96233691208.8466
+1992,NOR,Norway,Barcelona,Spain,2,4,1,7,4286401.0,77.18439024,Europe & Central Asia,High income,259267275620.151
+1992,TUR,Turkey,Barcelona,Spain,2,2,2,6,56302037.0,68.486,Europe & Central Asia,Upper middle income,718526004676.726
+1992,IDN,Indonesia,Barcelona,Spain,2,2,1,5,188558416.0,64.126,East Asia & Pacific,Upper middle income,1018135773672.26
+1992,BRA,Brazil,Barcelona,Spain,2,1,0,3,155900790.0,66.708,Latin America & Caribbean,Upper middle income,1893260506388.94
+1992,GRC,Greece,Barcelona,Spain,2,0,0,2,10399061.0,77.38292683,Europe & Central Asia,High income,286220237000.216
+1992,SWE,Sweden,Barcelona,Spain,1,7,4,12,8668067.0,77.99878049,Europe & Central Asia,High income,334242785997.023
+1992,NZL,New Zealand,Barcelona,Spain,1,4,5,10,3531700.0,76.12439024,East Asia & Pacific,High income,102721668390.345
+1992,FIN,Finland,Barcelona,Spain,1,2,2,5,5041992.0,75.45536585,Europe & Central Asia,High income,177698687722.497
+1992,DNK,Denmark,Barcelona,Spain,1,1,4,6,5171370.0,75.19414634,Europe & Central Asia,High income,246486618582.023
+1992,MAR,Morocco,Barcelona,Spain,1,1,1,3,25400676.0,63.401,Middle East & North Africa,Lower middle income,113866831484.304
+1992,IRL,Ireland,Barcelona,Spain,1,1,0,2,3558430.0,75.41509756,Europe & Central Asia,High income,107647161249.973
+1992,ETH,Ethiopia,Barcelona,Spain,1,0,2,3,52011554.0,46.901,Sub-Saharan Africa,Low income,35303831942.1551
+1992,DZA,Algeria,Barcelona,Spain,1,0,1,2,26748303.0,67.757,Middle East & North Africa,Upper middle income,299397788368.036
+1992,EST,Estonia,Barcelona,Spain,1,0,1,2,1533091.0,68.86341463,Europe & Central Asia,High income,21950182189.9789
+1992,LTU,Lithuania,Barcelona,Spain,1,0,1,2,3700114.0,70.23439024,Europe & Central Asia,High income,58207789466.0112
+1992,CHE,Switzerland,Barcelona,Spain,1,0,0,1,6875364.0,77.80609756,Europe & Central Asia,High income,429588054787.003
+1992,JAM,Jamaica,Barcelona,Spain,0,3,1,4,2434574.0,72.189,Latin America & Caribbean,Upper middle income,22238427497.7663
+1992,NGA,Nigeria,Barcelona,Spain,0,3,1,4,100182045.0,45.668,Sub-Saharan Africa,Lower middle income,372306351007.095
+1992,LVA,Latvia,Barcelona,Spain,0,2,1,3,2614338.0,68.39609756,Europe & Central Asia,High income,28653632918.3797
+1992,AUT,Austria,Barcelona,Spain,0,2,0,2,7840709.0,75.81707317,Europe & Central Asia,High income,358272897923.061
+1992,NAM,Namibia,Barcelona,Spain,0,2,0,2,1461687.0,61.545,Sub-Saharan Africa,Upper middle income,11560533332.3036
+1992,ZAF,South Africa,Barcelona,Spain,0,2,0,2,41760755.0,63.341,Sub-Saharan Africa,Upper middle income,426543960106.83
+1992,BEL,Belgium,Barcelona,Spain,0,1,2,3,10045158.0,76.35121951,Europe & Central Asia,High income,435571547562.233
+1992,HRV,Croatia,Barcelona,Spain,0,1,2,3,4575818.0,71.24146341,Europe & Central Asia,High income,77894666089.4415
+1992,IOP,Independent Olympic Participants,Barcelona,Spain,0,1,2,3,,,,,
+1992,IRN,Iran,Barcelona,Spain,0,1,2,3,59372016.0,66.776,Middle East & North Africa,Upper middle income,614932452338.805
+1992,ISR,Israel,Barcelona,Spain,0,1,1,2,5123000.0,76.50487805,Middle East & North Africa,High income,136115723223.233
+1992,TPE,Chinese Taipei,Barcelona,Spain,0,1,0,1,,,,,
+1992,MEX,Mexico,Barcelona,Spain,0,1,0,1,84993164.0,70.616,Latin America & Caribbean,Upper middle income,1552431022267.54
+1992,PER,Peru,Barcelona,Spain,0,1,0,1,23047248.0,66.149,Latin America & Caribbean,Upper middle income,141412150339.039
+1992,MNG,Mongolia,Barcelona,Spain,0,0,2,2,2236494.0,59.641,East Asia & Pacific,Upper middle income,11542370967.6836
+1992,SVN,Slovenia,Barcelona,Spain,0,0,2,2,1996498.0,73.30487805,Europe & Central Asia,High income,43948918857.3157
+1992,ARG,Argentina,Barcelona,Spain,0,0,1,1,33568285.0,72.43,Latin America & Caribbean,Upper middle income,656388381925.808
+1992,BHS,Bahamas,Barcelona,Spain,0,0,1,1,281973.0,70.668,Latin America & Caribbean,High income,8407492007.49916
+1992,COL,Colombia,Barcelona,Spain,0,0,1,1,33939039.0,69.038,Latin America & Caribbean,Upper middle income,350514347613.257
+1992,GHA,Ghana,Barcelona,Spain,0,0,1,1,16241548.0,56.231,Sub-Saharan Africa,Lower middle income,46901046280.2739
+1992,MYS,Malaysia,Barcelona,Spain,0,0,1,1,18526708.0,71.526,East Asia & Pacific,Upper middle income,255621829099.864
+1992,PAK,Pakistan,Barcelona,Spain,0,0,1,1,122375179.0,60.116,South Asia,Lower middle income,420568467210.417
+1992,PHL,Philippines,Barcelona,Spain,0,0,1,1,64543525.0,67.088,East Asia & Pacific,Lower middle income,283068196261.779
+1992,PRI,Puerto Rico,Barcelona,Spain,0,0,1,1,3585176.0,73.939,Latin America & Caribbean,High income,101170497603.141
+1992,QAT,Qatar,Barcelona,Spain,0,0,1,1,471293.0,74.122,Middle East & North Africa,High income,34496787776.3716
+1992,SUR,Suriname,Barcelona,Spain,0,0,1,1,419521.0,64.65,Latin America & Caribbean,Upper middle income,7226867175.20677
+1992,THA,Thailand,Barcelona,Spain,0,0,1,1,56939020.0,70.885,East Asia & Pacific,Upper middle income,558875041821.244
+1996,USA,United States,Atlanta,United States,44,32,25,101,269394000.0,76.02682927,North America,High income,13053169951480.4
+1996,RUS,Russia,Atlanta,United States,26,21,16,63,148160129.0,65.85414634,Europe & Central Asia,High income,2649091579168.13
+1996,DEU,Germany,Atlanta,United States,20,18,27,65,81914831.0,76.67317073,Europe & Central Asia,High income,3759898730564.58
+1996,CHN,China,Atlanta,United States,16,22,12,50,1217550000.0,70.266,East Asia & Pacific,Upper middle income,3660396914986.99
+1996,FRA,France,Atlanta,United States,15,7,15,37,59756533.0,77.95365854,Europe & Central Asia,High income,2544482097606.11
+1996,ITA,Italy,Atlanta,United States,13,10,12,35,56860281.0,78.52195122,Europe & Central Asia,High income,2628640687816.13
+1996,AUS,Australia,Atlanta,United States,9,9,23,41,18224767.0,78.07804878,East Asia & Pacific,High income,712537551520.376
+1996,CUB,Cuba,Atlanta,United States,9,8,8,25,10963031.0,74.903,Latin America & Caribbean,Upper middle income,
+1996,UKR,Ukraine,Atlanta,United States,9,2,12,23,51057800.0,67.02243902,Europe & Central Asia,Upper middle income,510698663153.666
+1996,KOR,South Korea,Atlanta,United States,7,15,5,27,45524681.0,74.15121951,East Asia & Pacific,High income,967048174816.988
+1996,POL,Poland,Atlanta,United States,7,5,5,17,38624370.0,72.24634146,Europe & Central Asia,High income,587978751085.6
+1996,HUN,Hungary,Atlanta,United States,7,4,10,21,10311238.0,70.32878049,Europe & Central Asia,High income,197570591871.175
+1996,ESP,Spain,Atlanta,United States,5,6,6,17,39889852.0,78.1204878,Europe & Central Asia,High income,1348192904286.59
+1996,ROU,Romania,Atlanta,United States,4,7,9,20,22619004.0,69.10487805,Europe & Central Asia,High income,352372666499.919
+1996,NLD,Netherlands,Atlanta,United States,4,5,10,19,15530498.0,77.43560976,Europe & Central Asia,High income,746142058445.677
+1996,GRC,Greece,Atlanta,United States,4,4,0,8,10608800.0,77.68536585,Europe & Central Asia,High income,301700246332.712
+1996,CZE,Czech Republic,Atlanta,United States,4,3,4,11,10315241.0,73.71463415,Europe & Central Asia,High income,291212455682.56
+1996,CHE,Switzerland,Atlanta,United States,4,3,0,7,7071850.0,78.89609756,Europe & Central Asia,High income,438641573013.612
+1996,DNK,Denmark,Atlanta,United States,4,1,1,6,5263074.0,75.59146341,Europe & Central Asia,High income,275277885663.079
+1996,TUR,Turkey,Atlanta,United States,4,1,1,6,60293786.0,70.141,Europe & Central Asia,Upper middle income,854192325562.916
+1996,CAN,Canada,Atlanta,United States,3,11,8,22,29610218.0,78.2202439,North America,High income,1221340162353.38
+1996,BGR,Bulgaria,Atlanta,United States,3,7,5,15,8362826.0,70.89731707,Europe & Central Asia,High income,121181883175.247
+1996,JPN,Japan,Atlanta,United States,3,6,5,14,125757000.0,80.2197561,East Asia & Pacific,High income,4871868449276.63
+1996,KAZ,Kazakhstan,Atlanta,United States,3,4,4,11,15578227.0,63.6,Europe & Central Asia,Upper middle income,178235952510.922
+1996,BRA,Brazil,Atlanta,United States,3,3,9,15,166037122.0,68.409,Latin America & Caribbean,Upper middle income,2239990352941.52
+1996,NZL,New Zealand,Atlanta,United States,3,2,1,6,3732000.0,76.78780488,East Asia & Pacific,High income,124651525524.106
+1996,ZAF,South Africa,Atlanta,United States,3,1,1,5,44661603.0,61.459,Sub-Saharan Africa,Upper middle income,479193555179.42
+1996,IRL,Ireland,Atlanta,United States,3,0,1,4,3637510.0,75.83170732,Europe & Central Asia,High income,137630564572.564
+1996,SWE,Sweden,Atlanta,United States,2,4,2,8,8840998.0,78.95902439,Europe & Central Asia,High income,359175381461.949
+1996,NOR,Norway,Atlanta,United States,2,2,3,7,4381336.0,78.1504878,Europe & Central Asia,High income,306434076374.284
+1996,BEL,Belgium,Atlanta,United States,2,2,2,6,10156637.0,77.18731707,Europe & Central Asia,High income,461946638935.007
+1996,NGA,Nigeria,Atlanta,United States,2,1,3,6,110956183.0,45.567,Sub-Saharan Africa,Lower middle income,372864791507.523
+1996,PRK,North Korea,Atlanta,United States,2,1,2,5,22614347.0,60.956,East Asia & Pacific,Low income,
+1996,DZA,Algeria,Atlanta,United States,2,0,1,3,28984634.0,68.749,Middle East & North Africa,Upper middle income,313872307916.823
+1996,ETH,Ethiopia,Atlanta,United States,2,0,1,3,59347649.0,48.924,Sub-Saharan Africa,Low income,49179235600.3019
+1996,GBR,Great Britain,Atlanta,United States,1,8,6,15,58166950.0,77.08780488,Europe & Central Asia,High income,2262246669386.12
+1996,BLR,Belarus,Atlanta,United States,1,6,8,15,10159569.0,68.51219512,Europe & Central Asia,Upper middle income,84525585262.8334
+1996,KEN,Kenya,Atlanta,United States,1,4,3,8,27615736.0,55.161,Sub-Saharan Africa,Lower middle income,107774724660.321
+1996,JAM,Jamaica,Atlanta,United States,1,3,2,6,2532894.0,71.488,Latin America & Caribbean,Upper middle income,25220259335.8685
+1996,FIN,Finland,Atlanta,United States,1,2,1,4,5124573.0,76.69341463,Europe & Central Asia,High income,198270436448.878
+1996,IDN,Indonesia,Atlanta,United States,1,1,2,4,201373791.0,65.355,East Asia & Pacific,Upper middle income,1360536374436.57
+1996,YUG,Yugoslavia,Atlanta,United States,1,1,2,4,,,,,
+1996,IRN,Iran,Atlanta,United States,1,1,1,3,61598378.0,68.07,Middle East & North Africa,Upper middle income,648629290219.287
+1996,SVK,Slovakia,Atlanta,United States,1,1,1,3,5373361.0,72.65365854,Europe & Central Asia,High income,88086756984.1882
+1996,ARM,Armenia,Atlanta,United States,1,1,0,2,3298898.0,69.783,Europe & Central Asia,Upper middle income,12188158880.2036
+1996,HRV,Croatia,Atlanta,United States,1,1,0,2,4557097.0,72.36536585,Europe & Central Asia,High income,85871981597.9078
+1996,PRT,Portugal,Atlanta,United States,1,0,1,2,10063945.0,75.26097561,Europe & Central Asia,High income,305399768228.959
+1996,THA,Thailand,Atlanta,United States,1,0,1,2,60211096.0,71.653,East Asia & Pacific,Upper middle income,746357490511.661
+1996,BDI,Burundi,Atlanta,United States,1,0,0,1,5930507.0,44.373,Sub-Saharan Africa,Low income,6318925157.29102
+1996,CRI,Costa Rica,Atlanta,United States,1,0,0,1,3656234.0,76.804,Latin America & Caribbean,Upper middle income,45664338534.747
+1996,ECU,Ecuador,Atlanta,United States,1,0,0,1,11775221.0,71.362,Latin America & Caribbean,Upper middle income,112175365580.548
+1996,HKG,Hong Kong,Atlanta,United States,1,0,0,1,6435500.0,79.62756098,East Asia & Pacific,High income,243288672739.802
+1996,SYR,Syria,Atlanta,United States,1,0,0,1,14708879.0,70.347,Middle East & North Africa,Low income,74658469798.4332
+1996,ARG,Argentina,Atlanta,United States,0,2,1,3,35389362.0,73.307,Latin America & Caribbean,Upper middle income,770685048565.253
+1996,NAM,Namibia,Atlanta,United States,0,2,0,2,1650066.0,56.918,Sub-Saharan Africa,Upper middle income,12409846439.3888
+1996,SVN,Slovenia,Atlanta,United States,0,2,0,2,1988628.0,74.45853659,Europe & Central Asia,High income,51149260542.3426
+1996,AUT,Austria,Atlanta,United States,0,1,2,3,7959017.0,76.87073171,Europe & Central Asia,High income,387548178185.888
+1996,MYS,Malaysia,Atlanta,United States,0,1,1,2,20689051.0,72.327,East Asia & Pacific,Upper middle income,370652461030.668
+1996,MDA,Moldova,Atlanta,United States,0,1,1,2,2947293.0,64.241,Europe & Central Asia,Upper middle income,17869851603.5838
+1996,UZB,Uzbekistan,Atlanta,United States,0,1,1,2,23225000.0,64.712,Europe & Central Asia,Lower middle income,64414846148.4676
+1996,AZE,Azerbaijan,Atlanta,United States,0,1,0,1,7763000.0,62.622,Europe & Central Asia,Upper middle income,32290958437.9179
+1996,BHS,Bahamas,Atlanta,United States,0,1,0,1,304933.0,70.71,Latin America & Caribbean,High income,9463324778.98996
+1996,TPE,Chinese Taipei,Atlanta,United States,0,1,0,1,,,,,
+1996,LVA,Latvia,Atlanta,United States,0,1,0,1,2457222.0,68.77658537,Europe & Central Asia,High income,28272434281.2553
+1996,PHL,Philippines,Atlanta,United States,0,1,0,1,70944969.0,68.614,East Asia & Pacific,Lower middle income,334368739912.76
+1996,TON,Tonga,Atlanta,United States,0,1,0,1,100195.0,68.323,East Asia & Pacific,Upper middle income,498838275.217432
+1996,ZMB,Zambia,Atlanta,United States,0,1,0,1,8902019.0,45.233,Sub-Saharan Africa,Lower middle income,19783666077.2382
+1996,GEO,Georgia,Atlanta,United States,0,0,2,2,4491699.0,68.974,Europe & Central Asia,Upper middle income,19489502932.0001
+1996,MAR,Morocco,Atlanta,United States,0,0,2,2,26999093.0,65.238,Middle East & North Africa,Lower middle income,132863150324.431
+1996,TTO,Trinidad and Tobago,Atlanta,United States,0,0,2,2,1313434.0,69.009,Latin America & Caribbean,High income,19457443999.3167
+1996,IND,India,Atlanta,United States,0,0,1,1,983281218.0,60.984,South Asia,Lower middle income,2625811484451.03
+1996,ISR,Israel,Atlanta,United States,0,0,1,1,5692000.0,78.10487805,Middle East & North Africa,High income,171920187664.193
+1996,LTU,Lithuania,Atlanta,United States,0,0,1,1,3601613.0,70.10804878,Europe & Central Asia,High income,47792384292.2538
+1996,MEX,Mexico,Atlanta,United States,0,0,1,1,91586555.0,72.037,Latin America & Caribbean,Upper middle income,1666118457126.64
+1996,MNG,Mongolia,Atlanta,United States,0,0,1,1,2357033.0,60.305,East Asia & Pacific,Upper middle income,12414457527.5703
+1996,MOZ,Mozambique,Atlanta,United States,0,0,1,1,16079553.0,46.636,Sub-Saharan Africa,Low income,9282915340.89739
+1996,PRI,Puerto Rico,Atlanta,United States,0,0,1,1,3724655.0,74.585,Latin America & Caribbean,High income,117986754087.485
+1996,TUN,Tunisia,Atlanta,United States,0,0,1,1,9430550.0,72.38,Middle East & North Africa,Lower middle income,72053983374.89
+1996,UGA,Uganda,Atlanta,United States,0,0,1,1,21249572.0,46.67,Sub-Saharan Africa,Low income,29043608326.1892
+2000,USA,United States,Sydney,Australia,37,24,32,93,282162411.0,76.63658537,North America,High income,15535642028440.4
+2000,RUS,Russia,Sydney,Australia,32,28,29,89,146596869.0,65.48365854,Europe & Central Asia,High income,2977274996668.97
+2000,CHN,China,Sydney,Australia,28,16,14,58,1262645000.0,71.881,East Asia & Pacific,Upper middle income,5036769057117.47
+2000,AUS,Australia,Sydney,Australia,16,25,17,58,19028802.0,79.23414634,East Asia & Pacific,High income,845827447438.269
+2000,DEU,Germany,Sydney,Australia,13,17,26,56,82211508.0,77.92682927,Europe & Central Asia,High income,4093907265673.19
+2000,FRA,France,Sydney,Australia,13,14,11,38,60921384.0,79.05609756,Europe & Central Asia,High income,2899119271787.45
+2000,ITA,Italy,Sydney,Australia,13,8,13,34,56942108.0,79.77804878,Europe & Central Asia,High income,2874401132904.52
+2000,NLD,Netherlands,Sydney,Australia,12,9,4,25,15925513.0,77.98780488,Europe & Central Asia,High income,891668518586.805
+2000,CUB,Cuba,Sydney,Australia,11,11,7,29,11105791.0,76.183,Latin America & Caribbean,Upper middle income,
+2000,GBR,Great Britain,Sydney,Australia,11,10,7,28,58892514.0,77.74146341,Europe & Central Asia,High income,2639231904948.61
+2000,ROU,Romania,Sydney,Australia,11,6,9,26,22442971.0,71.16341463,Europe & Central Asia,High income,335297274016.714
+2000,KOR,South Korea,Sydney,Australia,8,10,10,28,47008111.0,75.9097561,East Asia & Pacific,High income,1184127626613.68
+2000,HUN,Hungary,Sydney,Australia,8,6,3,17,10210971.0,71.24634146,Europe & Central Asia,High income,228005099434.183
+2000,POL,Poland,Sydney,Australia,6,5,3,14,38258629.0,73.74878049,Europe & Central Asia,High income,716691574584.747
+2000,JPN,Japan,Sydney,Australia,5,8,5,18,126843000.0,81.07609756,East Asia & Pacific,High income,4974792351105.4
+2000,BGR,Bulgaria,Sydney,Australia,5,6,2,13,8170172.0,71.66341463,Europe & Central Asia,High income,103489806316.366
+2000,GRC,Greece,Sydney,Australia,4,6,3,13,10805808.0,77.88780488,Europe & Central Asia,High income,350801894844.448
+2000,SWE,Sweden,Sydney,Australia,4,5,3,12,8872109.0,79.64390244,Europe & Central Asia,High income,421755533588.575
+2000,NOR,Norway,Sydney,Australia,4,3,3,10,4490967.0,78.63414634,Europe & Central Asia,High income,349322640593.788
+2000,ETH,Ethiopia,Sydney,Australia,4,1,3,8,67031867.0,50.538,Sub-Saharan Africa,Low income,54621558951.4727
+2000,UKR,Ukraine,Sydney,Australia,3,10,10,23,49176500.0,67.67560976,Europe & Central Asia,Upper middle income,513608217995.89
+2000,KAZ,Kazakhstan,Sydney,Australia,3,4,0,7,14883626.0,65.45,Europe & Central Asia,Upper middle income,200520165967.172
+2000,BLR,Belarus,Sydney,Australia,3,3,11,17,9979610.0,68.91219512,Europe & Central Asia,Upper middle income,111662889847.167
+2000,CAN,Canada,Sydney,Australia,3,3,8,14,30685730.0,79.16682927,North America,High income,1462709981458.8
+2000,ESP,Spain,Sydney,Australia,3,3,5,11,40567864.0,78.96585366,Europe & Central Asia,High income,1605075384811.72
+2000,TUR,Turkey,Sydney,Australia,3,0,2,5,64113547.0,71.861,Europe & Central Asia,Upper middle income,973419215453.345
+2000,IRN,Iran,Sydney,Australia,3,0,1,4,65544383.0,69.691,Middle East & North Africa,Upper middle income,724514188449.189
+2000,CZE,Czech Republic,Sydney,Australia,2,3,3,8,10255063.0,74.96829268,Europe & Central Asia,High income,304375286549.699
+2000,KEN,Kenya,Sydney,Australia,2,3,2,7,30851606.0,54.411,Sub-Saharan Africa,Lower middle income,115114190550.448
+2000,DNK,Denmark,Sydney,Australia,2,3,1,6,5339616.0,76.59268293,Europe & Central Asia,High income,310333187139.525
+2000,FIN,Finland,Sydney,Australia,2,1,1,4,5176209.0,77.46585366,Europe & Central Asia,High income,245469350080.89
+2000,AUT,Austria,Sydney,Australia,2,1,0,3,8011566.0,78.12682927,Europe & Central Asia,High income,438734020967.108
+2000,LTU,Lithuania,Sydney,Australia,2,0,3,5,3499536.0,72.0195122,Europe & Central Asia,High income,57031551783.0675
+2000,AZE,Azerbaijan,Sydney,Australia,2,0,1,3,8048600.0,64.891,Europe & Central Asia,Upper middle income,44841241661.8096
+2000,BHS,Bahamas,Sydney,Australia,2,0,1,3,325014.0,72.041,Latin America & Caribbean,High income,11200515181.763
+2000,SVN,Slovenia,Sydney,Australia,2,0,0,2,1988925.0,75.41219512,Europe & Central Asia,High income,60600224835.3686
+2000,CHE,Switzerland,Sydney,Australia,1,6,2,9,7184250.0,79.6804878,Europe & Central Asia,High income,488435638286.753
+2000,IDN,Indonesia,Sydney,Australia,1,3,2,6,214072421.0,66.433,East Asia & Pacific,Upper middle income,1308649633295.11
+2000,SVK,Slovakia,Sydney,Australia,1,3,1,5,5388720.0,73.05121951,Europe & Central Asia,High income,98138663126.3435
+2000,MEX,Mexico,Sydney,Australia,1,2,3,6,97873442.0,73.569,Latin America & Caribbean,Upper middle income,2046789116005.03
+2000,NGA,Nigeria,Sydney,Australia,1,2,0,3,122851984.0,47.193,Sub-Saharan Africa,Lower middle income,415887588481.34
+2000,DZA,Algeria,Sydney,Australia,1,1,3,5,30774621.0,70.478,Middle East & North Africa,Upper middle income,357259630247.6
+2000,UZB,Uzbekistan,Sydney,Australia,1,1,2,4,24650400.0,65.724,Europe & Central Asia,Lower middle income,76544518898.5568
+2000,LVA,Latvia,Sydney,Australia,1,1,1,3,2367550.0,70.31463415,Europe & Central Asia,High income,35530613995.3724
+2000,YUG,Yugoslavia,Sydney,Australia,1,1,1,3,,,,,
+2000,NZL,New Zealand,Sydney,Australia,1,0,3,4,3857700.0,78.63658537,East Asia & Pacific,High income,139117706875.414
+2000,EST,Estonia,Sydney,Australia,1,0,2,3,1396985.0,70.41707317,Europe & Central Asia,High income,28864316341.5024
+2000,THA,Thailand,Sydney,Australia,1,0,2,3,63066603.0,72.316,East Asia & Pacific,Upper middle income,732283861830.079
+2000,HRV,Croatia,Sydney,Australia,1,0,1,2,4468302.0,72.80780488,Europe & Central Asia,High income,95152686229.0701
+2000,CMR,Cameroon,Sydney,Australia,1,0,0,1,15091594.0,52.932,Sub-Saharan Africa,Lower middle income,56986832625.9303
+2000,COL,Colombia,Sydney,Australia,1,0,0,1,39215135.0,71.32,Latin America & Caribbean,Upper middle income,430406416834.288
+2000,MOZ,Mozambique,Sydney,Australia,1,0,0,1,17768505.0,49.491,Sub-Saharan Africa,Low income,12907884957.9139
+2000,BRA,Brazil,Sydney,Australia,0,6,6,12,175873720.0,69.737,Latin America & Caribbean,Upper middle income,2437186456558.21
+2000,JAM,Jamaica,Sydney,Australia,0,6,3,9,2612205.0,70.944,Latin America & Caribbean,Upper middle income,24821892264.8154
+2000,BEL,Belgium,Sydney,Australia,0,2,3,5,10251250.0,77.72195122,Europe & Central Asia,High income,525011031395.501
+2000,ZAF,South Africa,Sydney,Australia,0,2,3,5,46813266.0,58.47,Sub-Saharan Africa,Upper middle income,527220230425.637
+2000,ARG,Argentina,Sydney,Australia,0,2,2,4,37070774.0,73.926,Latin America & Caribbean,Upper middle income,829385790279.617
+2000,TPE,Chinese Taipei,Sydney,Australia,0,1,4,5,,,,,
+2000,MAR,Morocco,Sydney,Australia,0,1,4,5,28554415.0,66.787,Middle East & North Africa,Lower middle income,146320214271.757
+2000,PRK,North Korea,Sydney,Australia,0,1,3,4,23367059.0,60.763,East Asia & Pacific,Low income,
+2000,MDA,Moldova,Sydney,Australia,0,1,1,2,2924668.0,66.417,Europe & Central Asia,Upper middle income,16749805343.5638
+2000,SAU,Saudi Arabia,Sydney,Australia,0,1,1,2,21547390.0,72.467,Middle East & North Africa,High income,871439586344.637
+2000,TTO,Trinidad and Tobago,Sydney,Australia,0,1,1,2,1332203.0,69.102,Latin America & Caribbean,High income,26122679066.8793
+2000,IRL,Ireland,Sydney,Australia,0,1,0,1,3805174.0,76.53658537,Europe & Central Asia,High income,200968364044.42
+2000,LKA,Sri Lanka,Sydney,Australia,0,1,0,1,18776371.0,70.355,South Asia,Lower middle income,124027586566.877
+2000,URY,Uruguay,Sydney,Australia,0,1,0,1,3292224.0,75.025,Latin America & Caribbean,High income,61447071522.0626
+2000,VNM,Vietnam,Sydney,Australia,0,1,0,1,79001142.0,72.462,East Asia & Pacific,Lower middle income,335560036797.161
+2000,GEO,Georgia,Sydney,Australia,0,0,6,6,4077131.0,69.575,Europe & Central Asia,Upper middle income,23265219954.9197
+2000,CRI,Costa Rica,Sydney,Australia,0,0,2,2,3979193.0,77.586,Latin America & Caribbean,Upper middle income,55867522710.2613
+2000,PRT,Portugal,Sydney,Australia,0,0,2,2,10289898.0,76.31463415,Europe & Central Asia,High income,360475014692.724
+2000,ARM,Armenia,Sydney,Australia,0,0,1,1,3168523.0,70.624,Europe & Central Asia,Upper middle income,14781654475.3627
+2000,BRB,Barbados,Sydney,Australia,0,0,1,1,264657.0,74.089,Latin America & Caribbean,High income,4357522914.39174
+2000,CHL,Chile,Sydney,Australia,0,0,1,1,15351799.0,76.87,Latin America & Caribbean,High income,271801379087.501
+2000,ISL,Iceland,Sydney,Australia,0,0,1,1,281205.0,79.65365854,Europe & Central Asia,High income,13496353816.7858
+2000,IND,India,Sydney,Australia,0,0,1,1,1059633675.0,62.669,South Asia,Lower middle income,3279034495944.35
+2000,ISR,Israel,Sydney,Australia,0,0,1,1,6289000.0,78.95365854,Middle East & North Africa,High income,208614591519.023
+2000,KWT,Kuwait,Sydney,Australia,0,0,1,1,1934901.0,76.722,Middle East & North Africa,High income,115032216411.109
+2000,KGZ,Kyrgyzstan,Sydney,Australia,0,0,1,1,4898400.0,68.55853659,Europe & Central Asia,Lower middle income,17822509597.691
+2000,MKD,Macedonia,Sydney,Australia,0,0,1,1,2026350.0,72.94634146,Europe & Central Asia,Upper middle income,24541734969.6698
+2000,QAT,Qatar,Sydney,Australia,0,0,1,1,645937.0,74.828,Middle East & North Africa,High income,60104630486.6438
+2004,USA,United States,Athens,Greece,36,39,26,101,292805298.0,77.48780488,North America,High income,17027620052801.6
+2004,CHN,China,Athens,Greece,32,17,14,63,1296075000.0,73.748,East Asia & Pacific,Upper middle income,7215496573067.44
+2004,RUS,Russia,Athens,Greece,28,26,36,90,144067316.0,65.47097561,Europe & Central Asia,High income,3768448888207.49
+2004,AUS,Australia,Athens,Greece,17,16,17,50,19932722.0,80.4902439,East Asia & Pacific,High income,964108062907.191
+2004,JPN,Japan,Athens,Greece,16,9,12,37,127761000.0,82.0302439,East Asia & Pacific,High income,5183689247918.63
+2004,DEU,Germany,Athens,Greece,13,16,20,49,82516260.0,78.6804878,Europe & Central Asia,High income,4173894796618.85
+2004,FRA,France,Athens,Greece,11,9,13,33,62716306.0,80.16341463,Europe & Central Asia,High income,3100129244783.52
+2004,ITA,Italy,Athens,Greece,10,11,11,32,57685327.0,80.7804878,Europe & Central Asia,High income,2983888146539.79
+2004,KOR,South Korea,Athens,Greece,9,12,9,30,48082519.0,77.66585366,East Asia & Pacific,High income,1451298556151.67
+2004,GBR,Great Britain,Athens,Greece,9,9,12,30,59987905.0,78.74634146,Europe & Central Asia,High income,2911492145241.79
+2004,CUB,Cuba,Athens,Greece,9,7,11,27,11225294.0,76.912,Latin America & Caribbean,Upper middle income,
+2004,HUN,Hungary,Athens,Greece,8,6,3,17,10107146.0,72.64878049,Europe & Central Asia,High income,271616893370.639
+2004,UKR,Ukraine,Athens,Greece,8,5,9,22,47451626.0,68.18536585,Europe & Central Asia,Upper middle income,720703216424.423
+2004,ROU,Romania,Athens,Greece,8,5,6,19,21451748.0,71.56097561,Europe & Central Asia,High income,421442023998.532
+2004,GRC,Greece,Athens,Greece,6,6,4,16,10955141.0,79.03902439,Europe & Central Asia,High income,421949406887.333
+2004,BRA,Brazil,Athens,Greece,5,2,3,10,184722043.0,71.131,Latin America & Caribbean,Upper middle income,2723916728546.84
+2004,NOR,Norway,Athens,Greece,5,0,1,6,4591910.0,79.84146341,Europe & Central Asia,High income,379518662375.674
+2004,NLD,Netherlands,Athens,Greece,4,9,9,22,16281779.0,79.09512195,Europe & Central Asia,High income,934001499529.938
+2004,SWE,Sweden,Athens,Greece,4,2,1,7,8993531.0,80.49756098,Europe & Central Asia,High income,466770642589.085
+2004,ESP,Spain,Athens,Greece,3,11,6,20,42921895.0,79.87073171,Europe & Central Asia,High income,1819976064746.75
+2004,CAN,Canada,Athens,Greece,3,6,3,12,31938807.0,79.99219512,North America,High income,1610875086776.22
+2004,TUR,Turkey,Athens,Greece,3,3,5,11,67785075.0,73.24,Europe & Central Asia,Upper middle income,1134066417498.61
+2004,POL,Poland,Athens,Greece,3,2,5,10,38182222.0,74.84634146,Europe & Central Asia,High income,804579316505.511
+2004,NZL,New Zealand,Athens,Greece,3,2,0,5,4087500.0,79.54878049,East Asia & Pacific,High income,164219148040.706
+2004,THA,Thailand,Athens,Greece,3,1,4,8,65311166.0,73.08,East Asia & Pacific,Upper middle income,916099809929.404
+2004,BLR,Belarus,Athens,Greece,2,5,6,13,9730146.0,68.95609756,Europe & Central Asia,Upper middle income,146546387664.619
+2004,AUT,Austria,Athens,Greece,2,4,1,7,8171966.0,79.1804878,Europe & Central Asia,High income,468352197759.842
+2004,ETH,Ethiopia,Athens,Greece,2,3,2,7,75301026.0,53.235,Sub-Saharan Africa,Low income,66728416705.8756
+2004,IRN,Iran,Athens,Greece,2,2,2,6,69061674.0,71.37,Middle East & North Africa,Upper middle income,908820662510.944
+2004,SVK,Slovakia,Athens,Greece,2,2,2,6,5372280.0,73.95853659,Europe & Central Asia,High income,117622822317.05
+2004,TPE,Chinese Taipei,Athens,Greece,2,2,1,5,,,,,
+2004,GEO,Georgia,Athens,Greece,2,2,0,4,3927340.0,70.567,Europe & Central Asia,Upper middle income,30216621133.3328
+2004,BGR,Bulgaria,Athens,Greece,2,1,9,12,7716860.0,72.56341463,Europe & Central Asia,High income,127507619350.535
+2004,DNK,Denmark,Athens,Greece,2,1,5,8,5404523.0,77.49268293,Europe & Central Asia,High income,323993157801.906
+2004,JAM,Jamaica,Athens,Greece,2,1,2,5,2664024.0,70.86,Latin America & Caribbean,Upper middle income,26950967999.3659
+2004,UZB,Uzbekistan,Athens,Greece,2,1,2,5,25864350.0,67.401,Europe & Central Asia,Lower middle income,92845263281.1013
+2004,MAR,Morocco,Athens,Greece,2,1,0,3,30033125.0,68.231,Middle East & North Africa,Lower middle income,181523309853.772
+2004,ARG,Argentina,Athens,Greece,2,0,4,6,38668796.0,74.855,Latin America & Caribbean,Upper middle income,838300927445.919
+2004,CHL,Chile,Athens,Greece,2,0,1,3,16017966.0,77.616,Latin America & Caribbean,High income,323245181807.772
+2004,KAZ,Kazakhstan,Athens,Greece,1,4,3,8,15012984.0,66.06,Europe & Central Asia,Upper middle income,299355314840.782
+2004,KEN,Kenya,Athens,Greece,1,4,2,7,34791836.0,56.361,Sub-Saharan Africa,Lower middle income,129952174356.235
+2004,CZE,Czech Republic,Athens,Greece,1,3,5,9,10197101.0,75.72195122,Europe & Central Asia,High income,345863207662.214
+2004,ZAF,South Africa,Athens,Greece,1,3,2,6,48556071.0,54.043,Sub-Saharan Africa,Upper middle income,604377466347.42
+2004,HRV,Croatia,Athens,Greece,1,2,2,5,4304600.0,75.5202439,Europe & Central Asia,High income,114231078301.059
+2004,LTU,Lithuania,Athens,Greece,1,2,0,3,3377075.0,71.96097561,Europe & Central Asia,High income,76418623050.5458
+2004,EGY,Egypt,Athens,Greece,1,1,3,5,77522427.0,68.613,Middle East & North Africa,Lower middle income,830684067474.702
+2004,CHE,Switzerland,Athens,Greece,1,1,3,5,7389625.0,81.08780488,Europe & Central Asia,High income,508997741402.525
+2004,IDN,Indonesia,Athens,Greece,1,1,2,4,225938595.0,65.75,East Asia & Pacific,Upper middle income,1559826632366.69
+2004,ZWE,Zimbabwe,Athens,Greece,1,1,1,3,12160881.0,44.502,Sub-Saharan Africa,Lower middle income,36433241471.6053
+2004,AZE,Azerbaijan,Athens,Greece,1,0,4,5,8306500.0,67.346,Europe & Central Asia,Upper middle income,64937858840.7126
+2004,BEL,Belgium,Athens,Greece,1,0,2,3,10421137.0,78.87804878,Europe & Central Asia,High income,564926556714.701
+2004,BHS,Bahamas,Athens,Greece,1,0,1,2,343089.0,72.478,Latin America & Caribbean,High income,11759087827.5107
+2004,ISR,Israel,Athens,Greece,1,0,1,2,6809000.0,80.14634146,Middle East & North Africa,High income,222129157493.666
+2004,CMR,Cameroon,Athens,Greece,1,0,0,1,16809407.0,54.178,Sub-Saharan Africa,Lower middle income,70116829882.1785
+2004,DOM,Dominican Republic,Athens,Greece,1,0,0,1,9043127.0,70.331,Latin America & Caribbean,Upper middle income,100701561934.947
+2004,ARE,United Arab Emirates,Athens,Greece,1,0,0,1,3993339.0,76.453,Middle East & North Africa,High income,400329826280.977
+2004,PRK,North Korea,Athens,Greece,0,4,1,5,23948930.0,69.437,East Asia & Pacific,Low income,
+2004,LVA,Latvia,Athens,Greece,0,4,0,4,2263122.0,72.02682927,Europe & Central Asia,High income,47496223897.7808
+2004,MEX,Mexico,Athens,Greece,0,3,1,4,103945813.0,74.372,Latin America & Caribbean,Upper middle income,2130175097106.17
+2004,PRT,Portugal,Athens,Greece,0,2,1,3,10483861.0,77.67073171,Europe & Central Asia,High income,373430925816.122
+2004,FIN,Finland,Athens,Greece,0,2,0,2,5228172.0,78.71463415,Europe & Central Asia,High income,271740967614.527
+2004,SRB,Serbia and Montenegro,Athens,Greece,0,2,0,2,7463157.0,72.68292683,Europe & Central Asia,Upper middle income,98400470484.6357
+2004,SVN,Slovenia,Athens,Greece,0,1,3,4,1997012.0,77.20731707,Europe & Central Asia,High income,69564521104.944
+2004,EST,Estonia,Athens,Greece,0,1,2,3,1362550.0,71.9097561,Europe & Central Asia,High income,37543771036.1898
+2004,HKG,Hong Kong,Athens,Greece,0,1,0,1,6783500.0,81.79926829,East Asia & Pacific,High income,304146390746.175
+2004,IND,India,Athens,Greece,0,1,0,1,1136264583.0,64.524,South Asia,Lower middle income,4153328341065.76
+2004,PRY,Paraguay,Athens,Greece,0,1,0,1,5416324.0,70.481,Latin America & Caribbean,Upper middle income,54890386155.2572
+2004,COL,Colombia,Athens,Greece,0,0,2,2,41648268.0,72.695,Latin America & Caribbean,Upper middle income,491023739250.457
+2004,NGA,Nigeria,Athens,Greece,0,0,2,2,136756848.0,48.767,Sub-Saharan Africa,Lower middle income,595796457196.355
+2004,VEN,Venezuela,Athens,Greece,0,0,2,2,26226927.0,72.514,Latin America & Caribbean,,
+2004,ERI,Eritrea,Athens,Greece,0,0,1,1,2763140.0,59.899,Sub-Saharan Africa,Low income,
+2004,MNG,Mongolia,Athens,Greece,0,0,1,1,2537949.0,64.796,East Asia & Pacific,Upper middle income,17736146348.2644
+2004,SYR,Syria,Athens,Greece,0,0,1,1,18084007.0,72.475,Middle East & North Africa,Low income,97872627772.2687
+2004,TTO,Trinidad and Tobago,Athens,Greece,0,0,1,1,1361172.0,71.076,Latin America & Caribbean,High income,36285061092.6402
+2008,CHN,China,Beijing,China,48,22,30,100,1324655000.0,74.872,East Asia & Pacific,Upper middle income,11348272829141.9
+2008,USA,United States,Beijing,China,36,39,37,112,304093966.0,78.03902439,North America,High income,18495355655754.0
+2008,RUS,Russia,Beijing,China,24,13,23,60,142742366.0,67.94926829,Europe & Central Asia,High income,4951957549655.98
+2008,GBR,Great Britain,Beijing,China,19,13,19,51,61806995.0,79.6,Europe & Central Asia,High income,3135768689936.62
+2008,DEU,Germany,Beijing,China,16,11,14,41,82110097.0,79.73658537,Europe & Central Asia,High income,4537959258854.15
+2008,AUS,Australia,Beijing,China,14,15,17,46,21249199.0,81.39512195,East Asia & Pacific,High income,1098511563353.96
+2008,KOR,South Korea,Beijing,China,13,11,8,32,49054708.0,79.51707317,East Asia & Pacific,High income,1736735345459.39
+2008,JPN,Japan,Beijing,China,9,8,8,25,128063000.0,82.58756098,East Asia & Pacific,High income,5362539486135.2
+2008,ITA,Italy,Beijing,China,8,9,10,27,58826731.0,81.48536585,Europe & Central Asia,High income,3077799624205.5
+2008,FRA,France,Beijing,China,7,16,20,43,64379696.0,81.21463415,Europe & Central Asia,High income,3315609825135.01
+2008,NLD,Netherlands,Beijing,China,7,5,4,16,16445593.0,80.25121951,Europe & Central Asia,High income,1045561115870.91
+2008,UKR,Ukraine,Beijing,China,7,4,11,22,46258189.0,68.25146341,Europe & Central Asia,Upper middle income,884132489927.674
+2008,KEN,Kenya,Beijing,China,6,4,6,16,39186895.0,59.614,Sub-Saharan Africa,Lower middle income,156938461030.929
+2008,ESP,Spain,Beijing,China,5,11,3,19,45954106.0,81.17560976,Europe & Central Asia,High income,2052677702980.3
+2008,JAM,Jamaica,Beijing,China,5,4,2,11,2711373.0,71.612,Latin America & Caribbean,Upper middle income,28150466764.1848
+2008,POL,Poland,Beijing,China,4,5,2,11,38125759.0,75.54390244,Europe & Central Asia,High income,986011116347.067
+2008,ETH,Ethiopia,Beijing,China,4,2,1,7,84357105.0,57.592,Sub-Saharan Africa,Low income,102117516049.557
+2008,ROU,Romania,Beijing,China,4,1,4,9,20537875.0,72.56585366,Europe & Central Asia,High income,558564762138.718
+2008,CUB,Cuba,Beijing,China,3,10,17,30,11276609.0,77.429,Latin America & Caribbean,Upper middle income,
+2008,CAN,Canada,Beijing,China,3,9,8,20,33247298.0,80.72463415,North America,High income,1758764624346.07
+2008,HUN,Hungary,Beijing,China,3,5,2,10,10038188.0,73.70243902,Europe & Central Asia,High income,298240483290.064
+2008,NOR,Norway,Beijing,China,3,5,1,9,4768212.0,80.59268293,Europe & Central Asia,High income,412917994748.006
+2008,BRA,Brazil,Beijing,China,3,4,10,17,192672317.0,72.715,Latin America & Caribbean,Upper middle income,3257825691169.88
+2008,BLR,Belarus,Beijing,China,3,4,7,14,9527985.0,70.45609756,Europe & Central Asia,Upper middle income,211055441787.098
+2008,CZE,Czech Republic,Beijing,China,3,3,1,7,10384603.0,76.97560976,Europe & Central Asia,High income,426736528752.821
+2008,SVK,Slovakia,Beijing,China,3,3,0,6,5379233.0,74.70487805,Europe & Central Asia,High income,159210865828.827
+2008,NZL,New Zealand,Beijing,China,3,2,4,9,4259800.0,80.35121951,East Asia & Pacific,High income,177535596317.766
+2008,GEO,Georgia,Beijing,China,3,2,2,7,3848449.0,71.332,Europe & Central Asia,Upper middle income,41779159245.3223
+2008,KAZ,Kazakhstan,Beijing,China,2,3,4,9,15776938.0,67.11,Europe & Central Asia,Upper middle income,408949256423.197
+2008,DNK,Denmark,Beijing,China,2,2,3,7,5493621.0,78.44634146,Europe & Central Asia,High income,345890371301.094
+2008,PRK,North Korea,Beijing,China,2,2,2,6,24469047.0,68.958,East Asia & Pacific,Low income,
+2008,THA,Thailand,Beijing,China,2,2,2,6,67328239.0,75.492,East Asia & Pacific,Upper middle income,1074561401636.81
+2008,MNG,Mongolia,Beijing,China,2,2,0,4,2633887.0,66.382,East Asia & Pacific,Upper middle income,24792841843.2819
+2008,CHE,Switzerland,Beijing,China,2,1,4,7,7647675.0,81.99268293,Europe & Central Asia,High income,581497621915.552
+2008,ARG,Argentina,Beijing,China,2,0,4,6,40273769.0,75.641,Latin America & Caribbean,Upper middle income,1118349580193.48
+2008,MEX,Mexico,Beijing,China,2,0,2,4,109684489.0,74.152,Latin America & Caribbean,Upper middle income,2349030508297.82
+2008,BEL,Belgium,Beijing,China,2,0,0,2,10709973.0,79.6804878,Europe & Central Asia,High income,617339545900.857
+2008,ZWE,Zimbabwe,Beijing,China,1,3,0,4,12550347.0,46.723,Sub-Saharan Africa,Lower middle income,26306278964.8782
+2008,SVN,Slovenia,Beijing,China,1,2,2,5,2021316.0,78.76585366,Europe & Central Asia,High income,84552633565.5528
+2008,AZE,Azerbaijan,Beijing,China,1,1,4,6,8763400.0,68.811,Europe & Central Asia,Upper middle income,154735033506.153
+2008,IDN,Indonesia,Beijing,China,1,1,4,6,237936543.0,68.226,East Asia & Pacific,Upper middle income,1960904059991.89
+2008,BGR,Bulgaria,Beijing,China,1,1,3,5,7492561.0,72.96341463,Europe & Central Asia,High income,165023364064.228
+2008,TUR,Turkey,Beijing,China,1,1,3,5,71051678.0,74.45,Europe & Central Asia,Upper middle income,1399914213576.4
+2008,TPE,Chinese Taipei,Beijing,China,1,1,2,4,,,,,
+2008,FIN,Finland,Beijing,China,1,1,2,4,5313399.0,79.56829268,Europe & Central Asia,High income,308338736362.088
+2008,LVA,Latvia,Beijing,China,1,1,1,3,2177322.0,72.4195122,Europe & Central Asia,High income,62634503347.8825
+2008,DOM,Dominican Republic,Beijing,China,1,1,0,2,9522948.0,71.658,Latin America & Caribbean,Upper middle income,133375087708.446
+2008,EST,Estonia,Beijing,China,1,1,0,2,1337090.0,73.77073171,Europe & Central Asia,High income,46064972201.9166
+2008,PRT,Portugal,Beijing,China,1,1,0,2,10558177.0,78.52439024,Europe & Central Asia,High income,393304861669.891
+2008,TTO,Trinidad and Tobago,Beijing,China,1,1,0,2,1392803.0,71.47,Latin America & Caribbean,High income,47252368687.2294
+2008,IND,India,Beijing,China,1,0,2,3,1206734806.0,66.149,South Asia,Lower middle income,5375764159725.89
+2008,IRN,Iran,Beijing,China,1,0,1,2,73318394.0,72.624,Middle East & North Africa,Upper middle income,1067680306564.49
+2008,CMR,Cameroon,Beijing,China,1,0,0,1,18777081.0,55.655,Sub-Saharan Africa,Lower middle income,79840710680.3141
+2008,PAN,Panama,Beijing,China,1,0,0,1,3495276.0,76.225,Latin America & Caribbean,High income,76390855456.4977
+2008,TUN,Tunisia,Beijing,China,1,0,0,1,10680380.0,75.185,Middle East & North Africa,Lower middle income,125286515044.621
+2008,SWE,Sweden,Beijing,China,0,4,1,5,9219637.0,81.1,Europe & Central Asia,High income,517441561424.342
+2008,LTU,Lithuania,Beijing,China,0,3,2,5,3198231.0,71.81219512,Europe & Central Asia,High income,100822740581.369
+2008,NGA,Nigeria,Beijing,China,0,3,2,5,152382506.0,50.225,Sub-Saharan Africa,Lower middle income,765409481340.348
+2008,HRV,Croatia,Beijing,China,0,2,3,5,4309705.0,75.91219512,Europe & Central Asia,High income,134211441429.034
+2008,COL,Colombia,Beijing,China,0,2,1,3,43815313.0,74.295,Latin America & Caribbean,Upper middle income,605573119878.577
+2008,GRC,Greece,Beijing,China,0,2,1,3,11077841.0,79.93902439,Europe & Central Asia,High income,461600228956.1
+2008,ARM,Armenia,Beijing,China,0,1,4,5,2983421.0,72.398,Europe & Central Asia,Upper middle income,36203910075.1721
+2008,UZB,Uzbekistan,Beijing,China,0,1,3,4,27302800.0,68.765,Europe & Central Asia,Lower middle income,127351021879.65
+2008,AUT,Austria,Beijing,China,0,1,2,3,8321496.0,80.43170732,Europe & Central Asia,High income,521372790149.078
+2008,IRL,Ireland,Beijing,China,0,1,2,3,4489544.0,80.09512195,Europe & Central Asia,High income,275305825394.048
+2008,KGZ,Kyrgyzstan,Beijing,China,0,1,2,3,5318700.0,68.45121951,Europe & Central Asia,Lower middle income,26034874118.0585
+2008,SRB,Serbia,Beijing,China,0,1,2,3,7350222.0,73.88536585,Europe & Central Asia,Upper middle income,122745280158.984
+2008,DZA,Algeria,Beijing,China,0,1,1,2,34569592.0,72.941,Middle East & North Africa,Upper middle income,494727662589.882
+2008,BHS,Bahamas,Beijing,China,0,1,1,2,362795.0,72.667,Latin America & Caribbean,High income,12350845047.4154
+2008,MAR,Morocco,Beijing,China,0,1,1,2,31634992.0,70.048,Middle East & North Africa,Lower middle income,220732210265.098
+2008,TJK,Tajikistan,Beijing,China,0,1,1,2,7324627.0,67.688,Europe & Central Asia,Lower middle income,16937726138.3628
+2008,CHL,Chile,Beijing,China,0,1,0,1,16661462.0,78.484,Latin America & Caribbean,High income,396020751999.013
+2008,ECU,Ecuador,Beijing,China,0,1,0,1,14496797.0,74.983,Latin America & Caribbean,Upper middle income,167037723591.341
+2008,ISL,Iceland,Beijing,China,0,1,0,1,317414.0,81.6097561,Europe & Central Asia,High income,19441215501.5543
+2008,MYS,Malaysia,Beijing,China,0,1,0,1,27664296.0,74.25,East Asia & Pacific,Upper middle income,631487926615.949
+2008,WSM,Samoa,Beijing,China,0,1,0,1,191787.0,72.155,East Asia & Pacific,Lower middle income,1175826434.28425
+2008,SGP,Singapore,Beijing,China,0,1,0,1,4839396.0,80.7902439,East Asia & Pacific,High income,420797401026.747
+2008,ZAF,South Africa,Beijing,China,0,1,0,1,50565812.0,56.022,Sub-Saharan Africa,Upper middle income,730535412543.499
+2008,SDN,Sudan,Beijing,China,0,1,0,1,32065241.0,61.206,Sub-Saharan Africa,Low income,188712858640.32
+2008,VNM,Vietnam,Beijing,China,0,1,0,1,85597241.0,73.411,East Asia & Pacific,Lower middle income,567197123348.626
+2008,EGY,Egypt,Beijing,China,0,0,2,2,83844783.0,69.319,Middle East & North Africa,Lower middle income,1064000811008.8
+2008,AFG,Afghanistan,Beijing,China,0,0,1,1,26427199.0,59.852,South Asia,Low income,58036781460.4599
+2008,ISR,Israel,Beijing,China,0,0,1,1,7308800.0,80.95121951,Middle East & North Africa,High income,267379403001.545
+2008,MUS,Mauritius,Beijing,China,0,0,1,1,1244121.0,72.57073171,Sub-Saharan Africa,Upper middle income,21822232972.2558
+2008,MDA,Moldova,Beijing,China,0,0,1,1,2868833.0,69.394,Europe & Central Asia,Upper middle income,27436652834.4172
+2008,TGO,Togo,Beijing,China,0,0,1,1,6222482.0,56.695,Sub-Saharan Africa,Low income,11995971886.7227
+2008,VEN,Venezuela,Beijing,China,0,0,1,1,27933833.0,72.436,Latin America & Caribbean,,
+2012,USA,United States,London,Great Britain,46,28,30,104,313877662.0,78.74146341,North America,High income,19224164686361.3
+2012,CHN,China,London,Great Britain,38,31,22,91,1354190000.0,76.192,East Asia & Pacific,Upper middle income,16230396597386.1
+2012,GBR,Great Britain,London,Great Britain,29,17,19,65,63700215.0,80.90487805,Europe & Central Asia,High income,3139827685498.9
+2012,RUS,Russia,London,Great Britain,20,20,28,68,143378447.0,70.07219512,Europe & Central Asia,High income,5176574783436.95
+2012,KOR,South Korea,London,Great Britain,13,9,8,30,50199853.0,80.8195122,East Asia & Pacific,High income,1985102837153.81
+2012,DEU,Germany,London,Great Britain,11,20,13,44,80425823.0,80.53902439,Europe & Central Asia,High income,4652850430055.43
+2012,FRA,France,London,Great Britain,11,11,13,35,65662240.0,81.96829268,Europe & Central Asia,High income,3365615525034.34
+2012,AUS,Australia,London,Great Britain,8,15,12,35,22733465.0,82.04634146,East Asia & Pacific,High income,1217702830573.72
+2012,ITA,Italy,London,Great Britain,8,9,11,28,59539717.0,82.23902439,Europe & Central Asia,High income,2897168627205.99
+2012,HUN,Hungary,London,Great Britain,8,4,6,18,9920362.0,75.06341463,Europe & Central Asia,High income,283231439476.0
+2012,JPN,Japan,London,Great Britain,7,14,17,38,127629000.0,83.09609756,East Asia & Pacific,High income,5338123032664.63
+2012,IRN,Iran,London,Great Britain,7,5,1,13,77324451.0,74.186,Middle East & North Africa,Upper middle income,1127264691633.12
+2012,NLD,Netherlands,London,Great Britain,6,6,8,20,16754962.0,81.10487805,Europe & Central Asia,High income,1025899226262.88
+2012,NZL,New Zealand,London,Great Britain,6,2,5,13,4408100.0,81.40731707,East Asia & Pacific,High income,188254871791.745
+2012,UKR,Ukraine,London,Great Britain,5,4,10,19,45593342.0,70.94414634,Europe & Central Asia,Upper middle income,824791098010.669
+2012,CUB,Cuba,London,Great Britain,5,3,7,15,11309290.0,77.833,Latin America & Caribbean,Upper middle income,
+2012,ESP,Spain,London,Great Britain,4,10,5,19,46773055.0,82.42682927,Europe & Central Asia,High income,1904467808091.37
+2012,JAM,Jamaica,London,Great Britain,4,5,3,12,2759817.0,73.433,Latin America & Caribbean,Upper middle income,26828382511.9075
+2012,CZE,Czech Republic,London,Great Britain,4,3,4,11,10510785.0,78.07560976,Europe & Central Asia,High income,420776069980.555
+2012,ZAF,South Africa,London,Great Britain,4,1,1,6,53145033.0,61.846,Sub-Saharan Africa,Upper middle income,782970839312.639
+2012,PRK,North Korea,London,Great Britain,4,0,3,7,24887770.0,71.626,East Asia & Pacific,Low income,
+2012,BRA,Brazil,London,Great Britain,3,5,9,17,199977707.0,73.552,Latin America & Caribbean,Upper middle income,3707614147323.18
+2012,POL,Poland,London,Great Britain,3,2,6,11,38063164.0,76.74634146,Europe & Central Asia,High income,1113257587797.88
+2012,ETH,Ethiopia,London,Great Britain,3,2,3,8,94451280.0,61.543,Sub-Saharan Africa,Low income,151052495068.288
+2012,KAZ,Kazakhstan,London,Great Britain,3,1,7,11,16792090.0,69.52,Europe & Central Asia,Upper middle income,499821831247.413
+2012,HRV,Croatia,London,Great Britain,3,1,2,6,4267558.0,76.92439024,Europe & Central Asia,High income,120105714019.753
+2012,CAN,Canada,London,Great Britain,2,6,10,18,34713395.0,81.66365854,North America,High income,1847367512609.86
+2012,BLR,Belarus,London,Great Britain,2,5,3,10,9446836.0,71.96585366,Europe & Central Asia,Upper middle income,244283939374.061
+2012,KEN,Kenya,London,Great Britain,2,4,7,13,43725806.0,61.115,Sub-Saharan Africa,Lower middle income,192579148133.479
+2012,DNK,Denmark,London,Great Britain,2,4,3,9,5591572.0,80.05121951,Europe & Central Asia,High income,340321410871.913
+2012,ROU,Romania,London,Great Britain,2,4,1,7,20058035.0,74.41219512,Europe & Central Asia,High income,540270412708.976
+2012,AZE,Azerbaijan,London,Great Britain,2,2,5,9,9295784.0,70.36,Europe & Central Asia,Upper middle income,181686766253.349
+2012,CHE,Switzerland,London,Great Britain,2,2,0,4,7996861.0,82.69756098,Europe & Central Asia,High income,604243005804.543
+2012,NOR,Norway,London,Great Britain,2,1,1,4,5018573.0,81.45121951,Europe & Central Asia,High income,423819230890.593
+2012,LTU,Lithuania,London,Great Britain,2,0,3,5,2987773.0,73.86341463,Europe & Central Asia,High income,96108197307.2177
+2012,TUN,Tunisia,London,Great Britain,2,0,1,3,11174383.0,75.55,Middle East & North Africa,Lower middle income,135705296262.735
+2012,SWE,Sweden,London,Great Britain,1,4,3,8,9519374.0,81.70487805,Europe & Central Asia,High income,538021674926.701
+2012,COL,Colombia,London,Great Britain,1,3,5,9,45782417.0,75.597,Latin America & Caribbean,Upper middle income,711250709623.894
+2012,MEX,Mexico,London,Great Britain,1,3,4,8,115755909.0,74.574,Latin America & Caribbean,Upper middle income,2475084575406.17
+2012,GEO,Georgia,London,Great Britain,1,2,3,6,3728874.0,72.412,Europe & Central Asia,Upper middle income,49198613272.7027
+2012,IRL,Ireland,London,Great Britain,1,1,4,6,4599533.0,80.84634146,Europe & Central Asia,High income,268727708282.301
+2012,ARG,Argentina,London,Great Britain,1,1,2,4,41733271.0,76.467,Latin America & Caribbean,Upper middle income,1215655504668.18
+2012,SRB,Serbia,London,Great Britain,1,1,2,4,7199077.0,74.83658537,Europe & Central Asia,Upper middle income,121877574240.486
+2012,SVN,Slovenia,London,Great Britain,1,1,2,4,2057159.0,80.12439024,Europe & Central Asia,High income,77794000739.2195
+2012,TTO,Trinidad and Tobago,London,Great Britain,1,1,2,4,1430377.0,73.716,Latin America & Caribbean,High income,50006944497.6687
+2012,TUR,Turkey,London,Great Britain,1,1,1,3,75175827.0,75.678,Europe & Central Asia,Upper middle income,1683408068194.13
+2012,DOM,Dominican Republic,London,Great Britain,1,1,0,2,10030882.0,72.514,Latin America & Caribbean,Upper middle income,154523752861.782
+2012,TPE,Chinese Taipei,London,Great Britain,1,0,1,2,,,,,
+2012,LVA,Latvia,London,Great Britain,1,0,1,2,2034319.0,73.77804878,Europe & Central Asia,High income,56336918171.2755
+2012,DZA,Algeria,London,Great Britain,1,0,0,1,37260563.0,74.202,Middle East & North Africa,Upper middle income,553407666220.119
+2012,BHS,Bahamas,London,Great Britain,1,0,0,1,382061.0,72.753,Latin America & Caribbean,High income,12453408054.2508
+2012,BHR,Bahrain,London,Great Britain,1,0,0,1,1224939.0,79.081,Middle East & North Africa,High income,64003681307.5208
+2012,GRD,Grenada,London,Great Britain,1,0,0,1,115912.0,75.042,Latin America & Caribbean,Upper middle income,1485185905.27262
+2012,UGA,Uganda,London,Great Britain,1,0,0,1,34273295.0,58.817,Sub-Saharan Africa,Low income,82584785315.0513
+2012,VEN,Venezuela,London,Great Britain,1,0,0,1,29470426.0,73.036,Latin America & Caribbean,,
+2012,EGY,Egypt,London,Great Britain,0,3,1,4,91240376.0,70.085,Middle East & North Africa,Lower middle income,1218248265994.59
+2012,IND,India,London,Great Britain,0,2,4,6,1274487215.0,67.887,South Asia,Lower middle income,6982122438466.47
+2012,MNG,Mongolia,London,Great Britain,0,2,3,5,2792349.0,68.111,East Asia & Pacific,Upper middle income,34300565349.9306
+2012,THA,Thailand,London,Great Britain,0,2,2,4,69157023.0,76.772,East Asia & Pacific,Upper middle income,1240753782255.18
+2012,BGR,Bulgaria,London,Great Britain,0,2,1,3,7305888.0,74.31463415,Europe & Central Asia,High income,166604558671.786
+2012,FIN,Finland,London,Great Britain,0,2,1,3,5413971.0,80.62682927,Europe & Central Asia,High income,295732082082.493
+2012,IDN,Indonesia,London,Great Britain,0,2,1,3,250222695.0,68.973,East Asia & Pacific,Upper middle income,2453351888053.6
+2012,SVK,Slovakia,London,Great Britain,0,1,3,4,5407579.0,76.1097561,Europe & Central Asia,High income,167101631564.303
+2012,BEL,Belgium,London,Great Britain,0,1,2,3,11106932.0,80.38536585,Europe & Central Asia,High income,637410158770.11
+2012,ARM,Armenia,London,Great Britain,0,1,1,2,2914421.0,73.454,Europe & Central Asia,Upper middle income,35673112559.6373
+2012,EST,Estonia,London,Great Britain,0,1,1,2,1322696.0,76.32682927,Europe & Central Asia,High income,44608456040.8019
+2012,MYS,Malaysia,London,Great Britain,0,1,1,2,29660212.0,74.944,East Asia & Pacific,Upper middle income,741981040741.641
+2012,PRI,Puerto Rico,London,Great Britain,0,1,1,2,3634488.0,78.461,Latin America & Caribbean,High income,151374890421.617
+2012,BWA,Botswana,London,Great Britain,0,1,0,1,2175425.0,60.8,Sub-Saharan Africa,Upper middle income,31540688283.1084
+2012,CYP,Cyprus,London,Great Britain,0,1,0,1,1156556.0,80.109,Europe & Central Asia,High income,34489376368.5287
+2012,GAB,Gabon,London,Great Britain,0,1,0,1,1836705.0,64.587,Sub-Saharan Africa,Upper middle income,37350803278.812
+2012,GTM,Guatemala,London,Great Britain,0,1,0,1,14781942.0,71.463,Latin America & Caribbean,Upper middle income,152164063758.314
+2012,MNE,Montenegro,London,Great Britain,0,1,0,1,620601.0,76.2,Europe & Central Asia,Upper middle income,12340631910.0985
+2012,PRT,Portugal,London,Great Britain,0,1,0,1,10514844.0,80.37317073,Europe & Central Asia,High income,365610068366.609
+2012,UZB,Uzbekistan,London,Great Britain,0,0,3,3,29774500.0,69.874,Europe & Central Asia,Lower middle income,170506601552.816
+2012,GRC,Greece,London,Great Britain,0,0,2,2,11045011.0,80.63414634,Europe & Central Asia,High income,348584203306.69
+2012,QAT,Qatar,London,Great Britain,0,0,2,2,1905660.0,79.227,Middle East & North Africa,High income,247739482090.122
+2012,SGP,Singapore,London,Great Britain,0,0,2,2,5312437.0,81.99512195,East Asia & Pacific,High income,535232532510.318
+2012,AFG,Afghanistan,London,Great Britain,0,0,1,1,30466479.0,61.923,South Asia,Low income,91231454557.6403
+2012,CMR,Cameroon,London,Great Britain,0,0,1,1,21032684.0,57.792,Sub-Saharan Africa,Lower middle income,91152362160.2388
+2012,HKG,Hong Kong,London,Great Britain,0,0,1,1,7150100.0,83.4502439,East Asia & Pacific,High income,421965736629.529
+2012,KWT,Kuwait,London,Great Britain,0,0,1,1,3394663.0,78.812,Middle East & North Africa,High income,210397968569.356
+2012,MAR,Morocco,London,Great Britain,0,0,1,1,33352169.0,71.679,Middle East & North Africa,Lower middle income,257767710580.608
+2012,SAU,Saudi Arabia,London,Great Britain,0,0,1,1,30821543.0,76.461,Middle East & North Africa,High income,1420111161359.37
+2012,TJK,Tajikistan,London,Great Britain,0,0,1,1,7956382.0,68.484,Europe & Central Asia,Lower middle income,21638791827.4526
+2012,VNM,Vietnam,London,Great Britain,0,0,1,1,89301326.0,73.704,East Asia & Pacific,Lower middle income,714280851405.542
+2016,USA,United States,Rio de Janeiro,Brazil,46,37,38,121,323071755.0,78.53902439,North America,High income,21096585402410.0
+2016,GBR,Great Britain,Rio de Janeiro,Brazil,27,23,17,67,65611593.0,81.15609756,Europe & Central Asia,High income,3436241713134.26
+2016,CHN,China,Rio de Janeiro,Brazil,26,18,26,70,1387790000.0,77.218,East Asia & Pacific,Upper middle income,21490223756848.4
+2016,RUS,Russia,Rio de Janeiro,Brazil,19,17,20,56,145015460.0,71.65121951,Europe & Central Asia,High income,5211625906529.59
+2016,DEU,Germany,Rio de Janeiro,Brazil,17,10,15,42,82348669.0,80.9902439,Europe & Central Asia,High income,4955833501819.28
+2016,JPN,Japan,Rio de Janeiro,Brazil,12,8,21,41,127076000.0,83.98487805,East Asia & Pacific,High income,5588328029133.45
+2016,FRA,France,Rio de Janeiro,Brazil,10,18,14,42,66724104.0,82.57317073,Europe & Central Asia,High income,3493264623899.88
+2016,KOR,South Korea,Rio de Janeiro,Brazil,9,3,9,21,51217803.0,82.27560976,East Asia & Pacific,High income,2236912296310.75
+2016,ITA,Italy,Rio de Janeiro,Brazil,8,12,8,28,60627498.0,83.24390244,Europe & Central Asia,High income,2902901661247.72
+2016,AUS,Australia,Rio de Janeiro,Brazil,8,11,10,29,24190907.0,82.44878049,East Asia & Pacific,High income,1346657576080.08
+2016,NLD,Netherlands,Rio de Janeiro,Brazil,8,7,4,19,17030314.0,81.56097561,Europe & Central Asia,High income,1082727351270.93
+2016,HUN,Hungary,Rio de Janeiro,Brazil,8,3,4,15,9814023.0,76.06341463,Europe & Central Asia,High income,318541844292.138
+2016,BRA,Brazil,Rio de Janeiro,Brazil,7,6,6,19,206859578.0,74.442,Latin America & Caribbean,Upper middle income,3580891601615.87
+2016,ESP,Spain,Rio de Janeiro,Brazil,7,4,6,17,46484062.0,83.32926829,Europe & Central Asia,High income,2037092007649.18
+2016,KEN,Kenya,Rio de Janeiro,Brazil,6,6,1,13,47894670.0,62.163,Sub-Saharan Africa,Lower middle income,229641252624.049
+2016,JAM,Jamaica,Rio de Janeiro,Brazil,6,3,2,11,2802695.0,72.02,Latin America & Caribbean,Upper middle income,27780369056.4683
+2016,HRV,Croatia,Rio de Janeiro,Brazil,5,3,2,10,4174349.0,78.02195122,Europe & Central Asia,High income,126835408640.182
+2016,CUB,Cuba,Rio de Janeiro,Brazil,5,2,4,11,11342012.0,77.643,Latin America & Caribbean,Upper middle income,
+2016,NZL,New Zealand,Rio de Janeiro,Brazil,4,9,5,18,4714100.0,81.65853659,East Asia & Pacific,High income,216012844641.47
+2016,CAN,Canada,Rio de Janeiro,Brazil,4,3,15,22,36110803.0,81.92487805,North America,High income,1977619095748.98
+2016,UZB,Uzbekistan,Rio de Janeiro,Brazil,4,2,7,13,31847900.0,70.755,Europe & Central Asia,Lower middle income,222073629444.303
+2016,KAZ,Kazakhstan,Rio de Janeiro,Brazil,3,5,10,18,17794055.0,72.41,Europe & Central Asia,Upper middle income,564833535212.271
+2016,COL,Colombia,Rio de Janeiro,Brazil,3,2,3,8,47625955.0,76.471,Latin America & Caribbean,Upper middle income,821299289722.908
+2016,CHE,Switzerland,Rio de Janeiro,Brazil,3,2,2,7,8373338.0,83.60243902,Europe & Central Asia,High income,653115824072.338
+2016,IRN,Iran,Rio de Janeiro,Brazil,3,1,4,8,83306231.0,75.6,Middle East & North Africa,Upper middle income,1250109175218.83
+2016,GRC,Greece,Rio de Janeiro,Brazil,3,1,2,6,10775971.0,81.38780488,Europe & Central Asia,High income,339100716785.997
+2016,ARG,Argentina,Rio de Janeiro,Brazil,3,1,0,4,43590368.0,76.308,Latin America & Caribbean,Upper middle income,1220825572073.07
+2016,DNK,Denmark,Rio de Janeiro,Brazil,2,6,7,15,5728010.0,80.85365854,Europe & Central Asia,High income,368833181037.194
+2016,SWE,Sweden,Rio de Janeiro,Brazil,2,6,3,11,9923085.0,82.30731707,Europe & Central Asia,High income,596062979008.643
+2016,ZAF,South Africa,Rio de Janeiro,Brazil,2,6,2,10,56422274.0,64.747,Sub-Saharan Africa,Upper middle income,830012772423.058
+2016,UKR,Ukraine,Rio de Janeiro,Brazil,2,5,4,11,45038236.0,71.47634146,Europe & Central Asia,Upper middle income,685824833329.567
+2016,SRB,Serbia,Rio de Janeiro,Brazil,2,4,2,8,7058322.0,75.68780488,Europe & Central Asia,Upper middle income,129833162585.71
+2016,POL,Poland,Rio de Janeiro,Brazil,2,3,6,11,37970087.0,77.85121951,Europe & Central Asia,High income,1252921699506.67
+2016,PRK,North Korea,Rio de Janeiro,Brazil,2,3,2,7,25389611.0,72.805,East Asia & Pacific,Low income,
+2016,BEL,Belgium,Rio de Janeiro,Brazil,2,2,2,6,11331422.0,81.43902439,Europe & Central Asia,High income,672131229555.535
+2016,THA,Thailand,Rio de Janeiro,Brazil,2,2,2,6,70607037.0,78.049,East Asia & Pacific,Upper middle income,1372549441171.44
+2016,SVK,Slovakia,Rio de Janeiro,Brazil,2,2,0,4,5430798.0,77.16585366,Europe & Central Asia,High income,185148519618.575
+2016,GEO,Georgia,Rio de Janeiro,Brazil,2,1,4,7,3727505.0,73.569,Europe & Central Asia,Upper middle income,57563697329.2467
+2016,AZE,Azerbaijan,Rio de Janeiro,Brazil,1,7,10,18,9757812.0,72.004,Europe & Central Asia,Upper middle income,193500557074.845
+2016,BLR,Belarus,Rio de Janeiro,Brazil,1,4,4,9,9469379.0,73.82682927,Europe & Central Asia,Upper middle income,235285278076.148
+2016,TUR,Turkey,Rio de Janeiro,Brazil,1,3,4,8,79277962.0,76.66,Europe & Central Asia,Upper middle income,2100639322774.27
+2016,ARM,Armenia,Rio de Janeiro,Brazil,1,3,0,4,2865835.0,74.664,Europe & Central Asia,Upper middle income,39477396165.156
+2016,CZE,Czech Republic,Rio de Janeiro,Brazil,1,2,7,10,10566332.0,79.02682927,Europe & Central Asia,High income,464773002913.374
+2016,ETH,Ethiopia,Rio de Janeiro,Brazil,1,2,5,8,105293228.0,64.392,Sub-Saharan Africa,Low income,222490340833.501
+2016,SVN,Slovenia,Rio de Janeiro,Brazil,1,2,1,4,2065042.0,81.17560976,Europe & Central Asia,High income,83454650789.4524
+2016,IDN,Indonesia,Rio de Janeiro,Brazil,1,2,0,3,261850182.0,69.798,East Asia & Pacific,Upper middle income,2995493305785.44
+2016,ROU,Romania,Rio de Janeiro,Brazil,1,1,2,4,19702267.0,75.2097561,Europe & Central Asia,High income,598506169249.161
+2016,BHR,Bahrain,Rio de Janeiro,Brazil,1,1,0,2,1409661.0,79.557,Middle East & North Africa,High income,74937227636.7611
+2016,VNM,Vietnam,Rio de Janeiro,Brazil,1,1,0,2,93126529.0,73.938,East Asia & Pacific,Lower middle income,915860832928.699
+2016,TPE,Chinese Taipei,Rio de Janeiro,Brazil,1,0,2,3,,,,,
+2016,BHS,Bahamas,Rio de Janeiro,Brazil,1,0,1,2,395976.0,73.537,Latin America & Caribbean,High income,12323400786.2415
+2016,IOP,Independent Olympic Athletes,Rio de Janeiro,Brazil,1,0,1,2,,,,,
+2016,CIV,Ivory Coast,Rio de Janeiro,Brazil,1,0,1,2,24213622.0,58.06,Sub-Saharan Africa,Lower middle income,138285633654.093
+2016,FJI,Fiji,Rio de Janeiro,Brazil,1,0,0,1,918371.0,67.24,East Asia & Pacific,Upper middle income,11415881578.6557
+2016,JOR,Jordan,Rio de Janeiro,Brazil,1,0,0,1,9964656.0,75.215,Middle East & North Africa,Lower middle income,93278399190.7063
+2016,XKX,Kosovo,Rio de Janeiro,Brazil,1,0,0,1,1777557.0,78.981,Europe & Central Asia,Upper middle income,18548724460.525
+2016,PRI,Puerto Rico,Rio de Janeiro,Brazil,1,0,0,1,3406672.0,80.27,Latin America & Caribbean,High income,145684836860.538
+2016,SGP,Singapore,Rio de Janeiro,Brazil,1,0,0,1,5607283.0,82.84634146,East Asia & Pacific,High income,622002967448.121
+2016,TJK,Tajikistan,Rio de Janeiro,Brazil,1,0,0,1,8725318.0,69.549,Europe & Central Asia,Lower middle income,28103755771.934
+2016,MYS,Malaysia,Rio de Janeiro,Brazil,0,4,1,5,31526418.0,75.289,East Asia & Pacific,Upper middle income,903903598778.526
+2016,MEX,Mexico,Rio de Janeiro,Brazil,0,3,2,5,121519221.0,74.412,Latin America & Caribbean,Upper middle income,2674394620876.4
+2016,VEN,Venezuela,Rio de Janeiro,Brazil,0,2,1,3,30741464.0,72.058,Latin America & Caribbean,,
+2016,DZA,Algeria,Rio de Janeiro,Brazil,0,2,0,2,40339329.0,75.732,Middle East & North Africa,Upper middle income,633779964950.772
+2016,IRL,Ireland,Rio de Janeiro,Brazil,0,2,0,2,4755335.0,81.65365854,Europe & Central Asia,High income,374811124202.639
+2016,LTU,Lithuania,Rio de Janeiro,Brazil,0,1,3,4,2868231.0,74.67073171,Europe & Central Asia,High income,107774229040.472
+2016,BGR,Bulgaria,Rio de Janeiro,Brazil,0,1,2,3,7127822.0,74.81219512,Europe & Central Asia,High income,178191516701.504
+2016,IND,India,Rio de Janeiro,Brazil,0,1,1,2,1338636340.0,70.117,South Asia,Lower middle income,9327814573621.74
+2016,MNG,Mongolia,Rio de Janeiro,Brazil,0,1,1,2,3029555.0,69.865,East Asia & Pacific,Upper middle income,42929370719.9824
+2016,BDI,Burundi,Rio de Janeiro,Brazil,0,1,0,1,10903327.0,60.793,Sub-Saharan Africa,Low income,10086946976.8972
+2016,GRD,Grenada,Rio de Janeiro,Brazil,0,1,0,1,119966.0,74.762,Latin America & Caribbean,Upper middle income,1801831901.67371
+2016,NER,Niger,Rio de Janeiro,Brazil,0,1,0,1,20921743.0,61.629,Sub-Saharan Africa,Low income,31028807124.6903
+2016,PHL,Philippines,Rio de Janeiro,Brazil,0,1,0,1,104875266.0,71.387,East Asia & Pacific,Lower middle income,867956228661.943
+2016,QAT,Qatar,Rio de Janeiro,Brazil,0,1,0,1,2595166.0,80.433,Middle East & North Africa,High income,297388336588.542
+2016,NOR,Norway,Rio de Janeiro,Brazil,0,0,4,4,5234519.0,82.40731707,Europe & Central Asia,High income,450192377571.42
+2016,EGY,Egypt,Rio de Janeiro,Brazil,0,0,3,3,99784030.0,70.844,Middle East & North Africa,Lower middle income,1395307815745.06
+2016,TUN,Tunisia,Rio de Janeiro,Brazil,0,0,3,3,11685667.0,75.786,Middle East & North Africa,Lower middle income,146301938783.741
+2016,ISR,Israel,Rio de Janeiro,Brazil,0,0,2,2,8546000.0,82.40731707,Middle East & North Africa,High income,358774761597.593
+2016,AUT,Austria,Rio de Janeiro,Brazil,0,0,1,1,8736668.0,81.64146341,Europe & Central Asia,High income,549234883202.848
+2016,DOM,Dominican Republic,Rio de Janeiro,Brazil,0,0,1,1,10527592.0,72.987,Latin America & Caribbean,Upper middle income,197852892827.191
+2016,EST,Estonia,Rio de Janeiro,Brazil,0,0,1,1,1315790.0,77.64146341,Europe & Central Asia,High income,48984315607.7652
+2016,FIN,Finland,Rio de Janeiro,Brazil,0,0,1,1,5495303.0,81.42926829,Europe & Central Asia,High income,301837497110.928
+2016,MAR,Morocco,Rio de Janeiro,Brazil,0,0,1,1,35107264.0,73.284,Middle East & North Africa,Lower middle income,289168663649.951
+2016,NGA,Nigeria,Rio de Janeiro,Brazil,0,0,1,1,188666931.0,52.043,Sub-Saharan Africa,Lower middle income,1122737646691.27
+2016,PRT,Portugal,Rio de Janeiro,Brazil,0,0,1,1,10325452.0,81.12439024,Europe & Central Asia,High income,379154668527.644
+2016,TTO,Trinidad and Tobago,Rio de Janeiro,Brazil,0,0,1,1,1469330.0,74.281,Latin America & Caribbean,High income,49334459824.8102
+2016,ARE,United Arab Emirates,Rio de Janeiro,Brazil,0,0,1,1,8994263.0,79.335,Middle East & North Africa,High income,630585329384.61
+2020,USA,United States,Tokyo,Japan,39,41,33,113,331526933.0,76.9804878,North America,High income,22300552960504.8
+2020,CHN,China,Tokyo,Japan,38,32,18,88,1411100000.0,78.077,East Asia & Pacific,Upper middle income,26576353594843.0
+2020,JPN,Japan,Tokyo,Japan,27,14,17,58,126261000.0,84.56,East Asia & Pacific,High income,5459310569514.2
+2020,GBR,Great Britain,Tokyo,Japan,22,21,22,65,67081234.0,80.35121951,Europe & Central Asia,High income,3259058619205.67
+2020,RUS,Russian Olympic Committee,Tokyo,Japan,20,28,23,71,145245148.0,71.33878049,Europe & Central Asia,High income,5427716010814.12
+2020,AUS,Australia,Tokyo,Japan,17,7,22,46,25649248.0,83.2,East Asia & Pacific,High income,1444006380031.66
+2020,NLD,Netherlands,Tokyo,Japan,10,12,14,36,17441500.0,81.35853659,Europe & Central Asia,High income,1117665801491.7
+2020,FRA,France,Tokyo,Japan,10,12,11,33,67571107.0,82.17560976,Europe & Central Asia,High income,3427510236825.16
+2020,DEU,Germany,Tokyo,Japan,10,11,16,37,83160871.0,81.04146341,Europe & Central Asia,High income,4995100111123.74
+2020,ITA,Italy,Tokyo,Japan,10,10,20,40,59438851.0,82.19512195,Europe & Central Asia,High income,2724433687872.47
+2020,CAN,Canada,Tokyo,Japan,7,6,11,24,38028638.0,81.6604878,North America,High income,2025972302247.91
+2020,BRA,Brazil,Tokyo,Japan,7,6,8,21,213196304.0,74.009,Latin America & Caribbean,Upper middle income,3615574021216.43
+2020,NZL,New Zealand,Tokyo,Japan,7,6,7,20,5090200.0,82.25609756,East Asia & Pacific,High income,235622231915.545
+2020,CUB,Cuba,Tokyo,Japan,7,3,5,15,11300698.0,77.567,Latin America & Caribbean,Upper middle income,
+2020,HUN,Hungary,Tokyo,Japan,6,7,7,20,9750149.0,75.56829268,Europe & Central Asia,High income,350517065500.968
+2020,KOR,South Korea,Tokyo,Japan,6,4,10,20,51836239.0,83.42682927,East Asia & Pacific,High income,2410744496330.6
+2020,POL,Poland,Tokyo,Japan,4,5,5,14,37899070.0,76.5,Europe & Central Asia,High income,1428297945826.96
+2020,CZE,Czech Republic,Tokyo,Japan,4,4,3,11,10697858.0,78.17560976,Europe & Central Asia,High income,491216652783.091
+2020,KEN,Kenya,Tokyo,Japan,4,4,2,10,51985780.0,62.675,Sub-Saharan Africa,Lower middle income,264084005302.165
+2020,NOR,Norway,Tokyo,Japan,4,2,2,8,5379475.0,83.2097561,Europe & Central Asia,High income,464322656561.548
+2020,JAM,Jamaica,Tokyo,Japan,4,1,4,9,2820436.0,71.869,Latin America & Caribbean,Upper middle income,25981430581.2625
+2020,ESP,Spain,Tokyo,Japan,3,8,6,17,47365655.0,82.33170732,Europe & Central Asia,High income,1943838239090.75
+2020,SWE,Sweden,Tokyo,Japan,3,6,0,9,10353442.0,82.35609756,Europe & Central Asia,High income,621875638386.034
+2020,CHE,Switzerland,Tokyo,Japan,3,4,6,13,8638167.0,83.0,Europe & Central Asia,High income,673978695091.761
+2020,DNK,Denmark,Tokyo,Japan,3,4,4,11,5831404.0,81.60243902,Europe & Central Asia,High income,383044686083.86
+2020,HRV,Croatia,Tokyo,Japan,3,3,2,8,4047680.0,77.72439024,Europe & Central Asia,High income,127762801336.611
+2020,IRN,Iran,Tokyo,Japan,3,2,2,7,87290193.0,74.832,Middle East & North Africa,Upper middle income,1262967880610.57
+2020,SRB,Serbia,Tokyo,Japan,3,1,5,9,6899126.0,74.47804878,Europe & Central Asia,Upper middle income,143214938861.447
+2020,BEL,Belgium,Tokyo,Japan,3,1,3,7,11538604.0,80.69512195,Europe & Central Asia,High income,673136289291.464
+2020,BGR,Bulgaria,Tokyo,Japan,3,1,2,6,6934015.0,73.65853659,Europe & Central Asia,High income,187847369125.855
+2020,SVN,Slovenia,Tokyo,Japan,3,1,1,5,2102419.0,80.53170732,Europe & Central Asia,High income,90576970141.3813
+2020,UZB,Uzbekistan,Tokyo,Japan,3,0,2,5,34232050.0,70.331,Europe & Central Asia,Lower middle income,265339800891.039
+2020,GEO,Georgia,Tokyo,Japan,2,5,1,8,3722716.0,72.765,Europe & Central Asia,Upper middle income,63402112372.6154
+2020,TPE,Chinese Taipei,Tokyo,Japan,2,4,6,12,,,,,
+2020,TUR,Turkey,Tokyo,Japan,2,2,9,13,83384680.0,75.85,Europe & Central Asia,Upper middle income,2388933992735.03
+2020,GRC,Greece,Tokyo,Japan,2,1,1,4,10698599.0,81.28780488,Europe & Central Asia,High income,321993861143.427
+2020,UGA,Uganda,Tokyo,Japan,2,1,1,4,44404611.0,62.851,Sub-Saharan Africa,Low income,119056656372.302
+2020,ECU,Ecuador,Tokyo,Japan,2,1,0,3,17588595.0,72.153,Latin America & Caribbean,Upper middle income,218010165471.528
+2020,IRL,Ireland,Tokyo,Japan,2,0,2,4,4985382.0,82.55609756,Europe & Central Asia,High income,498924056208.806
+2020,ISR,Israel,Tokyo,Japan,2,0,2,4,9215100.0,82.64878049,Middle East & North Africa,High income,397995851463.643
+2020,QAT,Qatar,Tokyo,Japan,2,0,1,3,2760385.0,79.099,Middle East & North Africa,High income,287970239265.658
+2020,BHS,Bahamas,Tokyo,Japan,2,0,0,2,406471.0,72.677,Latin America & Caribbean,High income,10077516213.8323
+2020,XKX,Kosovo,Tokyo,Japan,2,0,0,2,1790133.0,76.567,Europe & Central Asia,Upper middle income,19937811875.2436
+2020,UKR,Ukraine,Tokyo,Japan,1,6,12,19,44207754.0,71.18512195,Europe & Central Asia,Upper middle income,721606731034.35
+2020,BLR,Belarus,Tokyo,Japan,1,3,3,7,9379952.0,72.45721951,Europe & Central Asia,Upper middle income,250740133878.602
+2020,ROU,Romania,Tokyo,Japan,1,3,0,4,19265250.0,74.25365854,Europe & Central Asia,High income,686837568376.907
+2020,VEN,Venezuela,Tokyo,Japan,1,3,0,4,28490453.0,71.095,Latin America & Caribbean,,
+2020,IND,India,Tokyo,Japan,1,2,4,7,1396387127.0,70.15,South Asia,Lower middle income,10378712667573.7
+2020,HKG,Hong Kong,Tokyo,Japan,1,2,3,6,7481000.0,85.49634146,East Asia & Pacific,High income,458798927893.01
+2020,PHL,Philippines,Tokyo,Japan,1,2,1,4,112190977.0,72.119,East Asia & Pacific,Lower middle income,947667774087.591
+2020,SVK,Slovakia,Tokyo,Japan,1,2,1,4,5458827.0,76.86585366,Europe & Central Asia,High income,196481200366.567
+2020,ZAF,South Africa,Tokyo,Japan,1,2,0,3,58801927.0,65.252,Sub-Saharan Africa,Upper middle income,803930033737.128
+2020,AUT,Austria,Tokyo,Japan,1,1,5,7,8916864.0,81.19268293,Europe & Central Asia,High income,544895480525.286
+2020,EGY,Egypt,Tokyo,Japan,1,1,4,6,107465134.0,70.99,Middle East & North Africa,Lower middle income,1673531030392.09
+2020,IDN,Indonesia,Tokyo,Japan,1,1,3,5,271857970.0,68.808,East Asia & Pacific,Upper middle income,3404556313997.13
+2020,ETH,Ethiopia,Tokyo,Japan,1,1,2,4,117190911.0,65.371,Sub-Saharan Africa,Low income,299262139696.11
+2020,PRT,Portugal,Tokyo,Japan,1,1,2,4,10297081.0,80.97560976,Europe & Central Asia,High income,380057453682.471
+2020,TUN,Tunisia,Tokyo,Japan,1,1,0,2,12161723.0,75.292,Middle East & North Africa,Lower middle income,142541525685.934
+2020,EST,Estonia,Tokyo,Japan,1,0,1,2,1329522.0,78.59512195,Europe & Central Asia,High income,55411792917.2665
+2020,FJI,Fiji,Tokyo,Japan,1,0,1,2,920422.0,67.924,East Asia & Pacific,Upper middle income,10297880948.9337
+2020,LVA,Latvia,Tokyo,Japan,1,0,1,2,1900449.0,75.18536585,Europe & Central Asia,High income,64936235795.8907
+2020,THA,Thailand,Tokyo,Japan,1,0,1,2,71475664.0,79.274,East Asia & Pacific,Upper middle income,1429716667768.12
+2020,BMU,Bermuda,Tokyo,Japan,1,0,0,1,63893.0,81.136,North America,High income,5658817336.41068
+2020,MAR,Morocco,Tokyo,Japan,1,0,0,1,36688772.0,73.92,Middle East & North Africa,Lower middle income,299034350113.187
+2020,PRI,Puerto Rico,Tokyo,Japan,1,0,0,1,3281557.0,78.041,Latin America & Caribbean,High income,131826020840.194
+2020,COL,Colombia,Tokyo,Japan,0,4,1,5,50930662.0,74.769,Latin America & Caribbean,Upper middle income,817711118547.378
+2020,AZE,Azerbaijan,Tokyo,Japan,0,3,4,7,10093121.0,66.868,Europe & Central Asia,Upper middle income,193041990114.825
+2020,DOM,Dominican Republic,Tokyo,Japan,0,3,2,5,10999664.0,72.889,Latin America & Caribbean,Upper middle income,217098214927.192
+2020,ARM,Armenia,Tokyo,Japan,0,2,2,4,2805608.0,72.173,Europe & Central Asia,Upper middle income,44579269902.145
+2020,KGZ,Kyrgyzstan,Tokyo,Japan,0,2,1,3,6579900.0,71.8,Europe & Central Asia,Lower middle income,37250512878.8033
+2020,MNG,Mongolia,Tokyo,Japan,0,1,3,4,3294335.0,72.141,East Asia & Pacific,Upper middle income,49247084583.6546
+2020,ARG,Argentina,Tokyo,Japan,0,1,2,3,45376763.0,75.892,Latin America & Caribbean,Upper middle income,1079321900605.97
+2020,SMR,San Marino,Tokyo,Japan,0,1,2,3,34007.0,,Europe & Central Asia,High income,2044613168.78869
+2020,JOR,Jordan,Tokyo,Japan,0,1,1,2,10928721.0,75.184,Middle East & North Africa,Lower middle income,98033034783.6004
+2020,MYS,Malaysia,Tokyo,Japan,0,1,1,2,33199993.0,75.938,East Asia & Pacific,Upper middle income,989886134294.711
+2020,NGA,Nigeria,Tokyo,Japan,0,1,1,2,208327405.0,52.887,Sub-Saharan Africa,Lower middle income,1157867757369.25
+2020,BHR,Bahrain,Tokyo,Japan,0,1,0,1,1477469.0,79.174,Middle East & North Africa,High income,77522978113.816
+2020,LTU,Lithuania,Tokyo,Japan,0,1,0,1,2794885.0,74.97804878,Europe & Central Asia,High income,122300872241.685
+2020,NAM,Namibia,Tokyo,Japan,0,1,0,1,2489098.0,62.829,Sub-Saharan Africa,Upper middle income,26338688299.7304
+2020,MKD,North Macedonia,Tokyo,Japan,0,1,0,1,1856124.0,74.39512195,Europe & Central Asia,Upper middle income,39325158114.0477
+2020,SAU,Saudi Arabia,Tokyo,Japan,0,1,0,1,35997107.0,76.239,Middle East & North Africa,High income,1633870015239.06
+2020,TKM,Turkmenistan,Tokyo,Japan,0,1,0,1,6250438.0,68.687,Europe & Central Asia,Upper middle income,
+2020,KAZ,Kazakhstan,Tokyo,Japan,0,0,8,8,18755666.0,71.37,Europe & Central Asia,Upper middle income,623652745889.61
+2020,MEX,Mexico,Tokyo,Japan,0,0,4,4,125998302.0,70.133,Latin America & Caribbean,Upper middle income,2532194390753.47
+2020,FIN,Finland,Tokyo,Japan,0,0,2,2,5529543.0,81.93170732,Europe & Central Asia,High income,311371999879.4
+2020,BWA,Botswana,Tokyo,Japan,0,0,1,1,2546402.0,65.647,Sub-Saharan Africa,Upper middle income,38539041551.5395
+2020,BFA,Burkina Faso,Tokyo,Japan,0,0,1,1,21522626.0,59.731,Sub-Saharan Africa,Low income,50999797598.802
+2020,GHA,Ghana,Tokyo,Japan,0,0,1,1,32180401.0,64.114,Sub-Saharan Africa,Lower middle income,204486487774.301
+2020,GRD,Grenada,Tokyo,Japan,0,0,1,1,123663.0,74.924,Latin America & Caribbean,Upper middle income,1705177563.59537
+2020,CIV,Ivory Coast,Tokyo,Japan,0,0,1,1,26811790.0,59.032,Sub-Saharan Africa,Lower middle income,167357279085.193
+2020,KWT,Kuwait,Tokyo,Japan,0,0,1,1,4360444.0,76.92,Middle East & North Africa,High income,207575055837.52
+2020,MDA,Moldova,Tokyo,Japan,0,0,1,1,2635130.0,70.166,Europe & Central Asia,Upper middle income,35730412861.1096
+2020,SYR,Syria,Tokyo,Japan,0,0,1,1,20772595.0,72.14,Middle East & North Africa,Low income,61353089804.8273

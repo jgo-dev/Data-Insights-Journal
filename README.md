@@ -1,7 +1,9 @@
-This repo contains code related to the Data Insights Journal website - https://joash.pages./dev.
+This repo contains the data and code to replicate the analysis and visualisations posted on the Data Insights Journal website - https://joash.pages.dev/
 
-It needs to be read in conjuction with the articles posted on the website to have the best effect.
+For the best effect, read the code in conjunction with the articles posted on the website.
 
-The repo will be organized into folders with each folder corresponding to the data / code for one article.
+Each folder corresponding to the data / code for one article.
 
-For any questions or comments, please reach out to data.insights.journal@gmail.com.
+For questions or comments, please reach out to me at data.insights.journal@gmail.com.
+
+Happy reading!
