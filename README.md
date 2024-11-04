@@ -1,4 +1,4 @@
-This repo contains the data and code to replicate the analysis and visualisations posted on the Data Insights Journal website - https://joash.pages.dev/
+This repo contains the data and code to replicate the analysis and visualizations posted on the Data Insights Journal website - https://joash.pages.dev/
 
 For the best effect, read the code in conjunction with the articles posted on the website.
 
